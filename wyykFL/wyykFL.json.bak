@@ -38,6 +38,9 @@
         "name":"宝盒专享",
         "type":3,
         "api":"http://152.32.170.60/guot54/ygbh/raw/branch/master/h/zC.js",
+        
+        
+        "jar": "./jars/Yoursmile2.jar",
         "searchable":2,
         "quickSearch":0,
         "filterable":0,
