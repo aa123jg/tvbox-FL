@@ -10,10 +10,11 @@
     "sites": [
 
 
-  { "key": "lf_js_lf_live", "name": "🍓电视直播","type": 3, "api": "./lib/lf_live_min.js",       "jar":"./jars/pg(1).jar", "searchable": 1, "changeable": 0, "quickSearch": 1, "filterable": 1, "ext": "./lib/lf_live1.txt" }, 
-
+  { "key": "lf_js_lf_live", "name": "🍓电视直播1台","type": 3, "api": "./lib/lf_live_min.js","jar":"./jars/pg(1).jar", "searchable": 1, "changeable": 0, "quickSearch": 1, "filterable": 1, "ext": "./lib/lf_live1.txt" }, 
   
-  {"key": "wmcj8.com","name": "🔞┃成人07","type": 0,"api": "http://wmcj8.com/inc/sapi.php","quickSearch": 1,"searchable": 1,"filterable": 1},
+ { "key": "直播转点播", "name": "🍓电视直播2台", "type": 3,"searchable": 0, "api": "./lib/直播vod.js", "ext": "./lib/直播.json" }, 
+ 
+ {"key": "wmcj8.com","name": "🔞┃成人07","type": 0,"api": "http://wmcj8.com/inc/sapi.php","quickSearch": 1,"searchable": 1,"filterable": 1},
  
  { "key": "bttcj.com", "name": "🔞┃成人12","type": 0, "api": "http://bttcj.com/inc/sapi.php", "searchable": 1,"recordable": 0, "style": { "type": "rect", "ratio": 1.33 },"header": { "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko)Chrome/117.0.0.0 Safari/537.36" } },
 
@@ -32,7 +33,19 @@
 {"key": "gdlsp.com","name": "🔞┃成人54", "type": 0,"style":{ "type":"rect", "ratio":1.485 }, "api": "https://www.gdlsp.com/api/xml.php","searchable": 1 },
 
 {"key": "xrbsp.com","name": "🔞┃成人66","type": 0,"api": "https://www.xrbsp.com/api/xml.php","quickSearch": 1,"searchable": 1,"filterable": 1  },
-
+{
+        "key":"宝盒专享",
+        "name":"宝盒专享",
+        "type":3,
+        "api":"http://152.32.170.60/guot54/ygbh/raw/branch/master/h/zC.js",
+        
+        
+        "jar": "./jars/Yoursmile2.jar",
+        "searchable":2,
+        "quickSearch":0,
+        "filterable":0,
+        "ext":"https://d.kstore.space/download/6600/18cr.json"
+        },
 {"key": "csp_xBPQ_女优","name": "🔞┃女优资源","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/女优.json","jar": "./jars/Yoursmile2.jar"},
 
 {"key":"❤wmcj8","name":"🔞┃wmcj8资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1 },
