@@ -12,7 +12,7 @@
 
   { "key": "lf_js_lf_live", "name": "🍓电视直播1台","type": 3, "api": "./lib/lf_live_min.js","jar":"./jars/pg(1).jar", "searchable": 1, "changeable": 0, "quickSearch": 1, "filterable": 1, "ext": "./lib/lf_live1.txt" }, 
   
- { "key": "直播转点播", "name": "🍓电视直播2台", "type": 3,"searchable": 0, "api": "./lib/直播vod.js", "ext": "./lib/直播.json" }, 
+ //{ "key": "直播转点播", "name": "🍓电视直播2台", "type": 3,"searchable": 0, "api": "./lib/直播vod.js", "ext": "./lib/直播.json" }, 
  
  {"key": "wmcj8.com","name": "🔞┃成人07","type": 0,"api": "http://wmcj8.com/inc/sapi.php","quickSearch": 1,"searchable": 1,"filterable": 1},
  
