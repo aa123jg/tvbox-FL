@@ -9,9 +9,18 @@
 	    }],
     "sites": [
 
+ {
+        "key": "csp_Live2Vod_1",
+        "name": "┃网络🍓电视┃",
+        "type": 3,
+        "api": "csp_Live2Vod",
+        "jar": "https://jihulab.com/ali-tv/my/-/raw/main/libs/candymuj.jar",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 0,
+        "ext": "经典三级$https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/经典三级.txt#国产情色$https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/国产情色.txt#日媒视频$https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/日媒视频.txt#欧美成人1~6线$https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/欧美成人1~6线.txt#欧美成人7~21线$https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/欧美成人7~21线.txt"
+    },
 
-  { "key": "lf_js_lf_live", "name": "🍓电视直播1台","type": 3, "api": "./lib/lf_live_min.js","jar":"./jars/pg(1).jar", "searchable": 1, "changeable": 0, "quickSearch": 1, "filterable": 1, "ext": "./lib/lf_live1.txt" }, 
-  
  //{ "key": "直播转点播", "name": "🍓电视直播2台", "type": 3,"searchable": 0, "api": "./lib/直播vod.js", "ext": "./lib/直播.json" }, 
  
  {"key": "wmcj8.com","name": "🔞┃成人07","type": 0,"api": "http://wmcj8.com/inc/sapi.php","quickSearch": 1,"searchable": 1,"filterable": 1},
