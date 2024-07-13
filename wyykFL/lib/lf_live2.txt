@@ -1,0 +1,27 @@
+格式说明：
+地址(支持m3u订阅、tvbox配置文件中live选项的直播地址订阅)
+
+相对路径说明
+以./开头，相对位置是本订阅文件
+以/开头，存储卡的根目录
+
+
+#👙魅惑少女
+https://cloud.lxweb.cn/f/bGxASp/%E5%87%BA%E9%95%9C%E5%B0%91%E5%A5%B3.txt
+#绅士辅导
+https://cloud.lxweb.cn/f/GdpAsg/%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99.txt
+#🛀🏻快车资源
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/%E5%BF%AB%E8%BD%A6%E8%B5%84%E6%BA%90.txt
+#🤷‍羽龑专线
+https://cloud.lxweb.cn/f/xzL8iM/%E7%BE%BD%E9%BE%91%E4%B8%93%E7%BA%BF.txt
+#影视界源
+https://cloud.lxweb.cn/f/LQpksD/%E5%BD%B1%E8%A7%86%E7%95%8C%E6%BA%90.txt
+#浮力湾湾
+https://cloud.lxweb.cn/f/oE2wsY/%E6%B9%BE%E6%B9%BE%E4%B8%80%E5%A4%A9.txt
+#🌊加勒比嗨
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/%E5%8A%A0%E5%8B%92%E6%AF%94%E6%B5%B7.txt
+#🌆深夜互搏
+https://cloud.lxweb.cn/f/PyOYub/%E5%8D%88%E5%A4%9C%E9%A2%91%E9%81%93.txt
+#🐺狼人猎奇
+https://cloud.lxweb.cn/f/8xwrs1/%E7%BB%BF%E8%8C%B6%E7%9B%B4%E6%92%AD.json
+
