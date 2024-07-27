@@ -13,19 +13,19 @@
 	
 	
 	"sites": [
-	 {
-        "key": "csp_Live2Vod_1",
+
+	
+		 {
+        "key": "csp_Live2Vod_2",
         "name": "┃网络🍓电视┃",
         "type": 3,
-        "api": "csp_Live2Vod",
-        "jar": "https://jihulab.com/ali-tv/my/-/raw/main/libs/candymuj.jar",
+        "api": "./lib/直播vod.js",
+        "jar": "./jars/candymuj.jar",
         "searchable": 0,
         "quickSearch": 0,
         "filterable": 0,
-        "ext": "经典三级$https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/经典三级.txt#国产情色$https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/国产情色.txt#传媒娱乐$https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/%E4%BC%A0%E5%AA%92%E5%A8%B1%E4%B9%90.txt#日媒视频$https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/日媒视频.txt#欧美成人1~12线$https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/欧美成人1~12线.txt#欧美成人13~28线$https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/欧美成人13~28线.txt"
-    },
-	
-		
+        "ext":"./lib/直播.json"
+    },	
 		
 		{
 			"key": "hipy_js_29片库[密]",
@@ -49,28 +49,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/36直播[密].js"
 		},
-		{
-			"key": "hipy_js_黑料不打烊-z",
-			"name": "黑料不打烊-z(drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/黑料不打烊-z.js"
-		},
-		{
-			"key": "hipy_js_黑料不打烊[密]",
-			"name": "黑料不打烊[密](drpy_t3)",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/黑料不打烊[密].js"
-		},
+	
 		{
 			"key": "hipy_js_老司视频[密]",
 			"name": "老司视频[密](drpy_t3)",
@@ -82,14 +61,7 @@
 			"order_num": 0,
 			"ext": "./drpy_js/老司视频[密].js"
 		},
-    {
-            "key": "易看资源",
-            "name": "易看资源🔞",
-            "type": 1,
-            "api": "https://api.yikanapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
+  
           {
             "key": "9号资源",
             "name": "9号资源🔞",
