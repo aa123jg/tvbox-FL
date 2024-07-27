@@ -12,9 +12,9 @@ https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/m
 https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/国产情色.txt
 #日媒视频
 https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/日媒视频.txt
-#欧美成人1~6线
-https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/欧美成人1~6线.txt
-#欧美成人7~21线
-https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/欧美成人7~21线.txt
+#欧美成人1~12线
+https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/欧美成人1~12线.txt
+#欧美成人13~28线
+https://mirror.ghproxy.com//https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/txt/欧美成人13~28线.txt
 #atsushi
 https://github.moeyy.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u
