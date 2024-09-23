@@ -14,7 +14,15 @@
 	
 	"sites": [
 
-	
+		   {
+      "key": "XMVideo",
+      "name": "\uD83D\uDD1E 熊猫视频 | 珍惜",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "jar": "./jar/999.jar", 
+      "searchable": 1,
+      "filterable": 1
+    },
 		 {
         "key": "csp_Live2Vod_2",
         "name": "┃网络🍓电视┃",
@@ -26,15 +34,7 @@
         "filterable": 0,
         "ext":"./lib/直播.json"
     },	
-		   {
-      "key": "XMVideo",
-      "name": "\uD83D\uDD1E 熊猫视频 | 珍惜",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "jar": "./jar/999.jar", 
-      "searchable": 1,
-      "filterable": 1
-    },
+	
 		{
 			"key": "hipy_js_29片库[密]",
 			"name": "29片库[密](drpy_t3)",
