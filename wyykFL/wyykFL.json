@@ -52,7 +52,17 @@
             "filterable": 0,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
         },
-       
+             {
+      "key":"含羞草",
+      "name":"🔞含羞草",
+      "type":3,
+      "api":"./lib/drpy2.min.js",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"./js/含羞草.js"
+    },
+    
 		{
 			"key": "hipy_js_36直播[密]",
 			"name": "🔞36直播",
@@ -74,7 +84,72 @@
             "quickSearch": 0,
             "filterable": 0
         },
-          
+         {
+    "key":"猛男影院",
+    "name":"🔞猛男影视",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":"./jars/xmbjm.jar",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"./js/猛男.json"
+    },  
+    
+    {
+            "key": "155资源",
+            "name": "🔞☪155",
+            "api": "https://155api.com/api.php/provide/vod/",
+            "download": "",
+            "jiexiUrl": "",
+            "group": "影视",
+            "status": true,
+            "isActive": true,
+            "type": 1,
+            "id": 53
+        },
+        {
+      "key": "农夫与少妇",
+      "name": "🔞农夫少妇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/xyqxbpq.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "分类url": "https://nfsfhf9.nfsf-a16.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+        "分类": "国产专区$6#制服诱惑$13#中文字幕$7#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#强奸乱伦$12#三级专区$23#人妖系列$30#韩国主播$31#国产主播$14#激情动漫$15#明星换脸$16#抖阴视频$20#女优明星$21#网曝黑料$22#AV解说$24#SM调教$25#少女萝莉$26"
+      }
+    },
+     {"key":"女仆银院","name":"🔞女仆成人","type":3,"api":"csp_XBPQ", "jar":"./jars/xmbjm.jar","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.485},"ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","主页url":"https://8231.np202.cc/","数组":"<article>&&</article>","图片":"data-src=\"&&\"","标题":"<cite>&&</cite>","副标题":"","链接":"href=\"&&\"","简介":"description\" content=\"&&\"","跳转播放链接":"data-user-name=\"*\\$&&\"","搜索url":"https://8231.np202.cc/index.php/vod/search/page/{pg}/wd/{wd}.html","分类url":"https://8231.np202.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z","分类二次截取":"<nav>&&</nav>","分类数组":"<a&&a>","分类标题":">&&</","分类ID":"href=\"/index.php/vod/type/id/&&.html\""}},
+     {
+            "key": "学生合集",
+            "name": "🔞学妹合集",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jars/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "防走丢": "https://r2ymsjsf.student1.xyz/",
+                "主页url": "https://r2ymsjsf.student1.xyz/力争上游/",
+                "数组": "<li>&&</li>",
+                "图片": "data-src=\"&&\"",
+                "标题": "<h2>&&</h2>",
+                "副标题": "💝",
+                "简介": "description\" content=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
+                "搜索url": "https://r2ymsjsf.student1.xyz/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://r2ymsjsf.student1.xyz/vodtype/{cateId}-{catePg}.html;;z",
+                "分类": "国产精品$55#主播大秀$63#制服丝袜$58#自拍偷拍$60#传媒合集$57#AV解说$65#清纯学生$64#强奸乱伦$61#精品短视频$80#91探花$81#网爆门事件$12#明星爆料$20#角色扮演$21#VR视角$22#重口猎奇$23#少妇人妻$24#日本有码$69#日本无码$70#三级伦理$71#男同性恋$25#女同性恋$26#动漫精品$87#黑人专区$88#欧美精品$56#人兽大战$73#人妖系列$74#黑人无码$75#国产视频$77#明星换脸$78#探花约炮$84#传媒拍摄$85#网暴黑料$89"
+            }
+        },    
           {
       "key":"*老鸭2资源",
       "name":"🔞老鸭②资源",
