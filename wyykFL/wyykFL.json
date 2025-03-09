@@ -29,7 +29,15 @@
         "quickSearch": 0,
         "filterable": 0,
         "ext":"./lib/直播.json"
-    },    
+    },   
+     {
+      "key": "XMVideo",
+      "name": "🔞熊猫视频",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "searchable": 1,
+      "filterable": 1,"jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+    },
     	 {
         "key": "*AIvin",
         "name": "🔞AIvin",
@@ -264,7 +272,7 @@
      "name": "🔞BB网", 
      "type":3,
      "api":"csp_XBPQ",  
-     "jar": "./jar/spider.jar",
+     "jar": "./jar/xbpq.jar",
      "searchable": 1,
      "quickSearch": 0,
      "filterable": 1,                                                                       
@@ -272,8 +280,8 @@
    "播放数组":"entry-title&&</div>",
    "主页url":"https://www.bbw-fox.buzz/",
    "搜索url":"https://www.bbw-fox.buzz/index.php/vodsearch/{wd}-------------.html",
-   "分类url":"https://www.bbw-fox.buzz/index.php/vodtype/{cateId}/page/{catePg}/by/{by}/year/{year}.html",
-   "分类":"国产视频$1#国产传媒$160#日本视频$2#欧美视频$5#动画视频$6#中文字幕$9#SWAG$68#直播大秀$12"
+   "分类url":"https://www.bbw-fox.buzz/index.php/vodtype/{cateId}-{catePg}.html",
+   "分类":"国产视频$1#国产传媒$160#日本视频$2#动漫视频$6#欧美视频$5#中文字幕$9#SWAG$68"
    }},
 {
 "key":"csp_XBPQ_四虎影院",
@@ -283,7 +291,7 @@
  "searchable": 1,
  "quickSearch": 0,
  "filterable": 1,
- "ext":{"编码": "UTF-8","请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 12；； TAS-AN00 Build/HUAWEITAS-AN00；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36","链接":"href=\"&&\"[替换:detail>>play#.html]","直接播放":"1","搜索url":"https://leaves-fall-gracefully.sihuhub11.buzz/label/sort999/index.php/vod/search/?wd={wd}/","分类url":"https://leaves-fall-gracefully.sihuhub11.buzz/label/sort999/index.php/vod/type/id/{cateId}/page/{catePg}/","分类":"国产精品$20#中文字幕$21#国产探花$22#日本有码$23#绿帽淫妻$24#国产乱伦$25#美女主播$26#明星淫梦$27#TS人妖$28#香港三级$29#国产传媒$30#高清无码$31#精品素人$32#精品动漫$49#AV解说$50#VR专区$51#欧美专区$54#怀旧AV$52#JVID$53#SWAG$55"}},
+ "ext":{"编码": "UTF-8","请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 12；； TAS-AN00 Build/HUAWEITAS-AN00；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36","链接":"href=\"&&\"[替换:detail>>play#.html]","直接播放":"1","搜索url":"https://leaves-fall-gracefully.sihuhub11.buzz/label/sort999/index.php/vod/search/?wd={wd}/","分类url":"https://leaves-fall-gracefully.sihuhub11.buzz/label/sort999/index.php/vod/type/id/{cateId}-{catePg}.html","分类":"国产精品$20#中文字幕$21#国产探花$22#日本有码$23#绿帽淫妻$24#国产乱伦$25#美女主播$26#明星淫梦$27#TS人妖$28#香港三级$29#国产传媒$30#高清无码$31#精品素人$32#精品动漫$49#AV解说$50#VR专区$51#欧美专区$54#怀旧AV$52#JVID$53#SWAG$55"}},
 
     
  { "key":"push_agent","name":"💻3.1更新","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"}   
