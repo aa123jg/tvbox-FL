@@ -44,16 +44,7 @@
         "type": 0,
         "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
         }, 	
-      {
-      "key": "drpyS_七度空间[密]",
-      "name": "🔞七度空间[密](DS)",
-      "type": 4,
-      "api": "http://drpy.mxlgsl.cn/api/七度空间[密]",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "ext": ""
-    },   
+
      {
       "key":"*老鸭2资源",
       "name":"🔞老鸭②资源",
@@ -63,17 +54,7 @@
       "quickSearch": 1,
       "filterable": 0
        },
-    
-       {
-         "key":"drpyS_草榴社区[密]",
-         "name":"🔞草榴社区[密](DS)",
-         "type":4,
-         "api":"https://drpy.yanshanxiyu.top/api/草榴社区[密]?pwd=https://drpy.yanshanxiyu.top/config/1?sub=all,",
-         "searchable":2,
-         "filterable":0,
-        "quickSearch":0,
-        "ext":""
-        },
+
         {
             "key": "香奶儿",
             "name": "🔞香奶儿",
