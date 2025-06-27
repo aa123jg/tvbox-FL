@@ -1,17 +1,17 @@
 
 💥午夜｜松视,#genre#
 
-happy,http://ali.hlspull.yximgs.com:80/live/97da14ed80072d4be06ea2559699a77e.flv
-香蕉,http://ali.hlspull.yximgs.com:80/live/fa1a8f66a2bb1d4074d11d855f3a93c1.flv
-惊艳,http://ali.hlspull.yximgs.com:80/live/c87b596db363fe7644160fb69c3be36a.flv
-潘朵拉,http://ali.hlspull.yximgs.com:80/live/de4e191098b3d9e15c552777b5e84482.flv
-彩虹,http://ali.hlspull.yximgs.com:80/live/52989d5c7d858108879fb89841a5545c.flv
-k频道,http://ali.hlspull.yximgs.com:80/live/ba37b55e99877eefee1273fcf766f777.flv
-e频道,http://ali.hlspull.yximgs.com:80/live/9ff258de53aa252c324d2a9e7b8c110d.flv
-松3,http://ali.hlspull.yximgs.com:80/live/3b143b62996ceb40524195f844cbdb69.flv
-松1,http://ali.hlspull.yximgs.com:80/live/8b1d45fd9417079cc32cd66422c42c2f.flv
-pigo,http://ali.hlspull.yximgs.com:80/live/3a7494815699393cffade788a6c7e360.flv
-极限,http://ali.hlspull.yximgs.com:80/live/449946aa2639dc0b423a671505e38ec9.flv
+pigoo,http://aplay.seres.cn:80/live/19629a78c33e775d200e3de314c70928.m3u8
+极限,http://aplay.seres.cn:80/live/93534bafa1a96c5dff06231d0113d364.m3u8
+Happy,http://aplay.seres.cn:80/live/4d59eedc9018009fecf078e4945ca170.m3u8
+香蕉,http://aplay.seres.cn:80/live/ec952e99a8dbd0e52ca9c97d70aaf863.m3u8
+惊艳,http://aplay.seres.cn:80/live/967584f72deea7991f10f768a79cd4b1.m3u8
+玩美,http://aplay.seres.cn:80/live/4c235bdec5a923530a1060fc37428826.m3u8
+彩虹电影,http://aplay.seres.cn:80/live/9cc4be8f4eeb735a1e1492386f07f6c6.m3u8
+彩虹k,http://aplay.seres.cn:80/live/1296cabb31874d66b14cb98f66cfbfbe.m3u8
+彩虹e,http://aplay.seres.cn:80/live/a59df92dcd9b422637c73f7111dce792.m3u8
+松视3,http://aplay.seres.cn:80/live/12c4802db39f955396996169cfb12820.m3u8
+松视1,http://aplay.seres.cn:80/live/cfc1d66723927df3d8798e896c24044c.m3u8
 
 
 
