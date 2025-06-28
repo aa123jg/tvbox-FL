@@ -1,17 +1,4 @@
 
-💥午夜｜松视,#genre#
-
-pigoo,http://aplay.seres.cn:80/live/f34b852f54ca30a52ae6476d1457a16a.m3u8
-极限,http://aplay.seres.cn:80/live/bfe2095a558aaf01211b34f9d99318be.m3u8
-Happy,http://aplay.seres.cn:80/live/3406e4b7a08cf6faee3985ecb5201cc8.m3u8
-香蕉,http://aplay.seres.cn:80/live/025c3d59c85da28decf392e57134a980.m3u8
-惊艳,http://aplay.seres.cn:80/live/c6fe7395058dbc28a5d6aceadb266484.m3u8
-玩美,http://aplay.seres.cn:80/live/ab9f0ed93d4266f0717275599d28a8c2.m3u8
-彩虹电影,http://aplay.seres.cn:80/live/618f6257d3ea7ab31c3f06869f1476a0.m3u8
-彩虹e,http://aplay.seres.cn:80/live/51a4995c7bfdb80aed1f2ec3cd642aed.m3u8
-彩虹k,http://aplay.seres.cn:80/live/d0f7fed01927333ffddf955832a3646a.m3u8
-松视3,http://aplay.seres.cn:80/live/578ad1d775661b262e8a7d527f039544.m3u8
-松视1,http://aplay.seres.cn:80/live/e53475cbbacaaaa4caa5b04c80fcfd97.m3u8
 
 💥杂乱无章,#genre#
 
