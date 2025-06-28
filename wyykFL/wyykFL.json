@@ -6,19 +6,13 @@
     "lives": [{
 		    "name": "live2",
 		    "type": 0,
-		    "url": "./lib/live2.txt",
+		    "url": "./txt/live2.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 	
 	"sites": [
-         {
-        "key": "live-sex01",
-        "name": "┃🍓直播电视┃",
-        "type": 3,
-        "api": "./js/apiv.js",
-        "ext":"./txt/电影编辑.txt"
-    },  
+    
       {
         "key": "csp_Live2Vod_2",
         "name": "┃🍓网络电视┃",
@@ -38,13 +32,6 @@
       "searchable": 1,
       "filterable": 1,"jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
     },
-    	 {
-        "key": "*AIvin",
-        "name": "🔞AIvin",
-        "type": 0,
-        "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-        }, 	
-
      {
       "key":"*老鸭2资源",
       "name":"🔞老鸭②资源",
@@ -89,26 +76,24 @@
       "quickSearch": 1,
       "filterable": 0
        },
-        {
-            "key": "香奶儿",
-            "name": "🔞香奶儿",
-            "type": 0,
-            "api": "https://www.gdlsp.com/api/xml.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },	   
-     {
-            "key": "csp_XYBQ",
-            "name": "🔞比卡|比卡",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/h/比卡比卡.json"
-        },    
+       {
+       "key": "美少女",
+       "name": "🔞美少女",
+       "type": 0,
+       "api": "https://www.msnii.com/api/xml.php",
+       "searchable": 0,
+       "quickSearch": 0,
+       "filterable": 0
+      },
+      {
+       "key": "香奶儿",
+       "name": "🔞香奶儿",
+       "type": 0,
+       "api":"https://www.gdlsp.com/api/xml.php",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+     },	   
      {
       "key":"含羞草",
       "name":"🔞含羞草",
@@ -120,17 +105,17 @@
       "ext":"./js/含羞草.js"
     },
    	{
-			"key": "hipy_js_36直播[密]",
-			"name": "🔞36直播",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/36直播[密].js"
-		},
-         {
+	  "key": "hipy_js_36直播[密]",
+	  "name": "🔞36直播",
+	  "type": 3,
+	  "api":"./drpy_libs/drpy2.min.js",
+	  "searchable": 1,
+	  "quickSearch": 1,
+	  "filterable": 1,
+	  "order_num": 0,
+	  "ext": "./drpy_js/36直播[密].js"
+	  },
+      {
       "key": "drpyS_xvideos[密]",
       "name": "🔞xvideos[密](DS)",
       "type": 4,
@@ -160,48 +145,75 @@
       "quickSearch": 0,
       "ext": ""
     },
-
-          {
-            "key": "美少女",
-            "name": "🔞美少女",
-            "type": 0,
-            "api": "https://www.msnii.com/api/xml.php",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-       
-     {
-            "key": "学生合集",
-            "name": "🔞学妹合集",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "防走丢": "https://r2ymsjsf.student1.xyz/",
-                "主页url": "https://r2ymsjsf.student1.xyz/力争上游/",
-                "数组": "<li>&&</li>",
-                "图片": "data-src=\"&&\"",
-                "标题": "<h2>&&</h2>",
-                "副标题": "💝",
-                "简介": "description\" content=\"&&\"",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
-                "搜索url": "https://r2ymsjsf.student1.xyz/vodsearch/{wd}----------{pg}---.html",
-                "分类url": "https://r2ymsjsf.student1.xyz/vodtype/{cateId}-{catePg}.html;;z",
-                "分类": "国产精品$55#主播大秀$63#制服丝袜$58#自拍偷拍$60#传媒合集$57#AV解说$65#清纯学生$64#强奸乱伦$61#精品短视频$80#91探花$81#网爆门事件$12#明星爆料$20#角色扮演$21#VR视角$22#重口猎奇$23#少妇人妻$24#日本有码$69#日本无码$70#三级伦理$71#男同性恋$25#女同性恋$26#动漫精品$87#黑人专区$88#欧美精品$56#人兽大战$73#人妖系列$74#黑人无码$75#国产视频$77#明星换脸$78#探花约炮$84#传媒拍摄$85#网暴黑料$89"
-            }
-        },    
-    
-
-
-    
- { "key":"push_agent","name":"💻3.1更新","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"}   
-
+   { 
+      "key":"push_agent",
+      "name":"💻6.28更新",
+      "type":3,
+      "api":"csp_PushAgent",
+      "playerType":1,
+      "searchable":1,   
+      "quickSearch":1,
+      "filterable":0,
+      "ext":"./alitoken.txt"      
+      }   
+  ],
+ "parses":[      
+  {
+      "name": "解析1",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "解析2",
+      "type": 0,
+      "url": "https://t2.qlplayer.cyou/player/analysis.php?v="
+    },
+    {
+      "name": "解析3",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "芒果TV",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+        }
+      }
+    },
+    {
+      "name": "解析4",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "解析5",
+      "type": 0,
+      "url": "https://nm.xxxc137.top/static/player/artplayer.html?url="
+    },
+    {
+      "name": "解析6",
+      "type": 0,
+      "url": "https://t2.qlplayer.cyou/player/analysis.php?v="
+    },       
+ {"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+ {"name": "-蜜蜂-","url": "https://jx.xmflv.cc/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header": {"User-Agent": "Mozilla/5.0"}}
 ]
 }
