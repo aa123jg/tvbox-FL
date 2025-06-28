@@ -6,7 +6,7 @@
     "lives": [{
 		    "name": "live2",
 		    "type": 0,
-		    "url": "./txt/live2.txt",
+		    "url": "https://git.acwing.com/wyy-jg/tvbox/-/raw/main/wyykFL/txt/live2.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
