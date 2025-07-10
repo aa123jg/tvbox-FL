@@ -2,7 +2,7 @@
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"homepage": "https://github.com/hjdhnx/hipy-server",
 	"homeLogo": "./img/logo500x200-1.png",
-	"spider": "./jar/spider3.jar",
+	"spider": "./jar/spider.jar",
     "lives": [{
 		    "name": "live2",
 		    "type": 0,
