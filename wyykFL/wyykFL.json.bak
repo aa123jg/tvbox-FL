@@ -11,7 +11,17 @@
 	
 	"sites": [
     
-     
+      {
+        "key": "csp_Live2Vod_2",
+        "name": "┃🍓网络电视┃",
+        "type": 3,
+        "api": "./lib/直播vod.js",
+        "jar": "./jar/candymuj.jar",
+        "searchable": 0,
+        "quickSearch": 0,
+        "filterable": 0,
+        "ext":"./lib/直播.json"
+    },   
      {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
