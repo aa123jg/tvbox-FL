@@ -1,7 +1,5 @@
 {
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-	"homepage": "https://github.com/hjdhnx/hipy-server",
-	"homeLogo": "./img/logo500x200-1.png",
+	
 	"spider": "./jar/spider.jar",
     "lives": [{
 		    "name": "live2",
@@ -41,7 +39,7 @@
       "quickSearch": 1,
       "filterable": 0
        },
-    
+    {"key":"xBPQ_18j","name":"💚18j💚","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./jar/spider.jar","ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://18me.life/vod","直接播放":"1","分类url":"https://18me.life/show/{cateId}/by/{by}/page/{catePg}/","分类":"国产$1#日韩$2#伦理$4#欧美$3#另类$39","类型":"国产自拍$5#主播大秀$6#国产探花$7#偷窥偷拍$8#乱伦系列$9#网爆吃瓜$10#抖音风格$11#国产AV$12#福利姬$20#主播诱惑$36#侵犯系列$37||日韩自拍$13#日韩无码$14#日本字幕$15#av解说$17#换脸明星$18||欧美自拍$21#欧美字幕$22||伦理三级$29#日韩伦理$30||同性恋系列$38#变性系列$40#重口味$23"}},
           {
       "key":"*白嫖资源",
       "name":"🔞白嫖资源",
