@@ -1,6 +1,6 @@
 {
 	
-	"spider": "./jar/spider3.jar",
+	"spider": "./jar/spider.jar",
     "lives": [{
 		    "name": "live2",
 		    "type": 0,
