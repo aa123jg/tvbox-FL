@@ -30,12 +30,62 @@
       "searchable": 1,
       "filterable": 1,"jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
     },
-    {"key":"xBPQ_喷射TV","name":"🔞️喷射TV💚","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"jar":"./jar/xyqxbpq.jar","ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"https://www.heimi365.com/vodsearch/-------------.html?wd={wd}&submit=","主页url":"https://www.heimi365.com","直接播放":"1","链接":"href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]","分类url":"https://www.heimi365.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html","分类":"国产精选$1#日韩专区$2#欧美精选$3#动漫卡通$4#高清传媒$5","类型":"国产剧场$6#国产主播$7||中文字幕$13#无码流出$14#高清有码$15||高清有码$38#高清无码$37||黄漫$39#里番中字$40||麻豆传媒$41#蜜桃传媒$42#星空无限传媒$43#天美传媒$44#SA国际传媒$45#性视界传媒$46"}},
-    
-    
+     {"key":"csp_XYQHiker_鲨鱼AV",
+       "name":"🔞鲨鱼AV",
+       "type":3,
+        "api":"csp_XYQHiker",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":0,
+        "ext":"https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/鲨鱼av.json",
+        "jar":"https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
+      },     
+     {         
+        "key":"xBPQ_喷射TV",               
+        "name":"🔞️喷射TV",              
+        "type":3,              
+        "api":"csp_XBPQ",              
+        "searchable": 1,              
+        "quickSearch": 0,               
+        "filterable": 1,              
+        "jar":"./jar/xyqxbpq.jar",               
+        "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"https://www.heimi365.com/vodsearch/-------------.html?wd={wd}&submit=","主页url":"https://www.heimi365.com","直接播放":"1","链接":"href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]","分类url":"https://www.heimi365.com/vodshow/{cateId}--{by}---{letter}---{catePg}---.html","分类":"国产精选$1#日韩专区$2#欧美精选$3#动漫卡通$4#高清传媒$5","类型":"国产剧场$6#国产主播$7||中文字幕$13#无码流出$14#高清有码$15||高清有码$38#高清无码$37||黄漫$39#里番中字$40||麻豆传媒$41#蜜桃传媒$42#星空无限传媒$43#天美传媒$44#SA国际传媒$45#性视界传媒$46"}               
+        },
+    {
+            "key": "🔞淫岛专场",
+            "name": "🔞淫岛专场",
+            "type": 3,
+            "api": "csp_XBPQ",            
+            "jar":"./jar/淫岛.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://epy.sxbd2.yachts/cn/home/web/",
+                "数组": "默认--cat\"&&thumb||首页--最新发布&&thumb",
+                "标题": "默认--title=\"&&\"||首页--title=\"&&\"",
+                "图片": "默认--data-original=\"&&\"||首页--data-src=\"&&\"",
+                "链接": "默认--href=\"&&\"||首页--href=\"&&\"",
+                "简介": "description\" content=\"&&\"",
+                "搜索模式": "1",
+                "搜索url": "https://epy.sxbd2.yachts/s/{wd}/page/{pg}.html",
+                "搜索数组": "image-container&&</header>",
+                "搜索标题": "title=\"&&\"",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "分类url": "https://epy.sxbd2.yachts/vodtype/{cateId}-{catePg}.html;;z",
+                "分类二次截取": "hulian\">&&</div>",
+                "分类数组": "<a&&/a>",
+                "分类标题": ">&&<",
+                "分类ID": "/vodtype/&&.html"
+            }
+        }, 
+  
      {
       "key":"*老鸭2资源",
-      "name":"🔞老鸭②资源",
+      "name":"🔞老鸭资源",
       "type":1,
       "api":"https://lbapi9.com/api.php/provide/vod",
       "searchable": 1,
@@ -148,7 +198,7 @@
     },
    { 
       "key":"push_agent",
-      "name":"💻6.28更新",
+      "name":"💻7.28更新",
       "type":3,
       "api":"csp_PushAgent",
       "playerType":1,
