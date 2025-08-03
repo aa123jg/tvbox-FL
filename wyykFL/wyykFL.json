@@ -196,6 +196,16 @@
       "quickSearch": 0,
       "ext": ""
     },
+    {
+      "key": "湾湾频道",
+      "name": "🔞湾湾┃三级片",
+      "type": 3,
+      "api": "csp_Ptt",           
+      "jar":"https://ncstatic.clewm.net/rsrc/2025/0729/23/2c785170859af5feb9db10e64e954809.png;md5;A0EC3105A63143718F617D8985E25357",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+     },       
    { 
       "key":"push_agent",
       "name":"💻7.28更新",
