@@ -10,7 +10,7 @@
 	    }],
 	
 	"sites": [
-    
+  
       {
         "key": "csp_Live2Vod_2",
         "name": "┃🍓网络电视┃",
@@ -22,6 +22,9 @@
         "filterable": 0,
         "ext":"./lib/直播.json"
     },   
+         {"key":"csp_XBPQ_PWXXX视频","name":"🔞PWXXX视频","type":3,"api":"csp_XBPQ",  "jar": "./jar/xyqxbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","主页url":"https://pwxxx.pwxxx15.fun/pwxxx/","分类url":"https://pwxxx.pwxxx15.fun/pwxxx/vod/type/id/{cateId}/page/{catePg}.html","分类":"国产大区$1#日韩大区$2#欧美大区$3#其它视频$4","类型":"国产精品$13#网曝吃瓜$6#自拍偷拍$7#传媒出品$8#网红主播$9#大神探花$10#抖阴视频$11#国产其它$12||日韩精品$14#日韩无码$15#日韩有码$16#中文字幕$20#萝莉少女$21#人妻熟妇$22#韩国主播$23#日韩其它$24||欧美精品$5#欧美无码$25#欧美另类$26#欧美其它$27||AI换脸$28#AV解说$29#三级伦理$30#成人动漫$31"}}, 
+     
+     
      {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
@@ -85,7 +88,10 @@
    {"key":"csp_XBPQ_高清SEX国产","name":"🔞高清SEX国产","type":3,"api":"csp_XBPQ",    "jar": "./jar/xyqxbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","链接":"href=\"&&\"[替换:voddetail>>v#.html]","编码": "UTF-8","直接播放":"1","搜索url":"https://day-egg-milk.sexav-102.com/s/?wd={wd}","主页url":"https://day-egg-milk.sexav-102.com/ssss","分类url":"https://day-egg-milk.sexav-102.com/t/{cateId}-{catePg}/","分类":"国产视频$163#国产传媒$227#日韩仓库$1#国产剧情$114#网曝事件$5#女优专区$89#番号区$225#必射精选$18","类型":"国产视频$163#国产精品$17#网曝黑料$232#主播大秀$236#国产自拍$48#抖阴视频$231#AV解说$233||综合传媒$227#麻豆合集$38#葫芦影业$109#天美传媒$111#果冻传媒$112#91制片厂$131#蜜桃传媒$113||日本有码$1#丝袜美腿$36#绝美少女$53#日本口爆$58#萝莉少女$234#强奸乱伦$6#日本巨乳$7#制服诱惑$9||精东影业$114#皇家华人$115#SWAG$116#兔子先生$120#大象传媒$125#糖心VLOG$128#星空传媒$130||日本无码$5#人妻熟女$10#日本调教$11#日本出轨$12#中文字幕$13#日本素人$16#巨乳无码$32#制服无码$35||波多野结衣$89#三上悠亚$87#葵司$90#桃乃木香奈$93#松本一香$103#篠田優$205#川上奈奈美$215||综合番号$225#200GANA$142#259LUXU$146#300MIUM$143#300MAAN$149#MIAA$190#SSIS$191#STARS$186||空"}},
 
   {"key":"csp_XBPQ_AV星球","name":"🔞AV星球","type":3,"api":"csp_XBPQ",    "jar": "./jar/xyqxbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"直接播放":"1","主页url":"https://avxqo.cc/","分类url":"https://avxqo.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"日韩精品$1#乱伦系列$35#日韩自拍$33#国产AV$2#国产性爱AV$23#探花约炮$36#国产AV精品$17#主播大秀$37#网曝吃瓜$38#国产传媒$39#偷拍偷窥$40#重口味$41#中文字幕$8#欧美大片$12#色情动漫$6"}},
-     {
+   
+  
+       
+           {
       "key":"*老鸭2资源",
       "name":"🔞老鸭资源",
       "type":1,
