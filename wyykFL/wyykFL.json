@@ -43,30 +43,6 @@
      "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","主页url":"https://pwxxx.pwxxx15.fun/pwxxx/","分类url":"https://pwxxx.pwxxx15.fun/pwxxx/vod/type/id/{cateId}/page/{catePg}.html","分类":"国产大区$1#日韩大区$2#欧美大区$3#其它视频$4","类型":"国产精品$13#网曝吃瓜$6#自拍偷拍$7#传媒出品$8#网红主播$9#大神探花$10#抖阴视频$11#国产其它$12||日韩精品$14#日韩无码$15#日韩有码$16#中文字幕$20#萝莉少女$21#人妻熟妇$22#韩国主播$23#日韩其它$24||欧美精品$5#欧美无码$25#欧美另类$26#欧美其它$27||AI换脸$28#AV解说$29#三级伦理$30#成人动漫$31"
      }
      },      
-     {
-     "key":"xBPQ_乱伦",
-     "name":"🔞️乱伦",
-     "type":3,
-     "api":"csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1,
-     "jar":"./jar/xyqxbpq.jar",
-     "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"https://uopp.mdfhi.cyou/index.php/vodsearch/{wd}-------------.html","主页url":"https://uopp.mdfhi.cyou/","直接播放":"1","分类url":"https://uopp.mdfhi.cyou/index.php/vodtype/{cateId}-{catePg}.html","分类":"国产$1#日本$2#欧美$5#","类型":"国产精品$10#主播大秀$12#女神学生$16#美熟少妇$17#娇妻素人$18#国产乱伦$20#自慰群交$21#野合车震$22#网曝门事件$25#偷拍自拍$57#北京天使$119#AI换脸$26||骑兵有码$27#步兵无码$28#制服师生$50#强奸乱伦$51#人妻熟女$53#丝袜美腿$56#亚洲情色$58||欧美性爱$29#人妖$31#男同$32"
-   }
-   },
-   {
-    "key":"csp_XBPQ_必射",
-    "name":"🔞必射",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar":"./jar/xBPQ.jar",    
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1,
-    "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","链接":"href=\"&&\"[替换:info>>play#]","直接播放":"1","搜索url":"https://bishejingxuan613811.buzz/search/{wd}.html","分类url":"https://bishejingxuan613811.buzz/search/{cateId}/page/{catePg}.html","分类":"口交&爱你&女又&裸体奸尸&口鲍&抽插&潮吹&国产&硬奸大嫂&美鲍&抱干&韩国&偷窥&后宫成群&奸杀弟妹&性爱外流&风骚&老汉推车&萝莉&妈妈乱轮&情杀&外围&女仆&亲家还要&野外硬上&淫女&人马相爱&日本&街拍底裤&口爆&操姐逼逼&迪丽热八&集体奸杀&女神&大奶&怨婦衝動&美腿控&黄老师私照&白丝&波霸&阿姨逼舔&人畜合体&欧美&厕所谜片&爸逼我脱&黑丝&性爱刑具&明星外流&淫乱&偷窥邻居&拳交&黑丝网袜&人妻瀑布&强奸&冯提&人妻&偷内衣贼&国产姊妹&干自家狗&兄弟女友&岳母诱惑&轮奸&家庭乱轮&露点&妹妹偷舔&就地野战&老师诱惑&刘名&潮水外泄&楼梯底裤&唯美&乱轮&黄老师","分类值":"*"
-    }
-    },
     {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
