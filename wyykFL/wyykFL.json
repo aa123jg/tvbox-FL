@@ -51,18 +51,7 @@
       "searchable": 1,
       "filterable": 1,"jar": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
     },
-    {
-      "key": "七区_py",
-      "name": "🔞七区视频",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "./py/七区.py",
-      "order_num": 5,
-      "ext": ""
-    },
-    	{
+	{
 			"key": "大奶子",
 			"name": "🔞大奶子资源",
 			"type": 1,
@@ -76,46 +65,7 @@
              "categories": ["精品推荐","国产主播","国产乱伦","自拍偷拍","制服丝袜","网曝事件","传媒探花","清纯学生","A V 解说","淫妻作乐","港台辣妹","足浴撩妹","反差母狗","A I 换脸","V R 视角","重口性癖","制服诱惑","丝袜美腿","中文字幕","无码流出","多人群交","凌辱快感","角色剧情","强奸乱伦","韩国三级","欧美激情","人妻熟女","主奴调教","动漫卡通","变性伪娘","女同性恋","野外露出"
       ]
 		},
-      {
-			"key": "py_DSYS",
-			"name": "🔞DSYS(T3)",
-			"type": 3,
-			"api": "./py/DSYS.py"
-		},  
-        	{
-			"key": "py_lav",
-			"name": "🔞lav(T3)",
-			"type": 3,
-			"api": "./py/lavAPP.py"
-		},
-	{
-			"key": "py_推特",
-			"name": "🔞推特(T3)",
-			"type": 3,
-			"api": "./py/推特APP.py"
-		},
-      	{
-			"key": "Zuise",
-			"name": "🔞最色AV",
-			"type": 3,
-			"api": "csp_Zuise",
-			"quickSearch": 1,
-			"changeable": 1,
-			"filterable": 1,
-			"timeout": 60,
-			"ext": "proxy"
-		},  
-        	{
-			"key": "lav",
-			"name": "🔞lav视频",
-			"type": 3,
-			"api": "https://raw.githubusercontent.com/fish2018/lib/main/py/py_lav.py",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"changeable": 0,
-			"ext": "proxy"
-		},
+ 
     {
        "key":"csp_XYQHiker_鲨鱼AV",
        "name":"🔞鲨鱼AV",
