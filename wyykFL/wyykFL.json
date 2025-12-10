@@ -1,3 +1,10 @@
+    { 
+         "name":"-芒果4K-",
+         "type": 1, 
+         "url": "http://mg.itufm.top/mg.php?url=" 
+       }, 
+
+
 {
 	
 	"spider": "./jar/spider.jar",
