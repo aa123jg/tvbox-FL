@@ -43,17 +43,6 @@
     "jar":"./jar/xyqxbpq.jar",
     "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://gcspw.gcspw12.xyz/","搜索url":"https://gcspw.gcspw12.xyz/gcspw/index.php/vod/type/id/2.html?wd={wd}","直接播放":"1","分类url":"https://gcspw.gcspw12.xyz/gcspw/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"国产精品$2#网曝吃瓜$3#自拍偷拍$4#传媒出品$5#网红主播$6#大神探花$7#抖阴视频$8#国产其它$9"}
     },
-     {
-     "key":"csp_XBPQ_PWXXX视频",
-     "name":"🔞PWXXX视频",
-     "type":3,"api":"csp_XBPQ",  
-     "jar": "./jar/xyqxbpq.jar",     
-     "searchable": 1,
-     "quickSearch": 0,
-     "filterable": 1,
-     "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","主页url":"https://pwxxx.pwxxx15.fun/pwxxx/","分类url":"https://pwxxx.pwxxx15.fun/pwxxx/vod/type/id/{cateId}/page/{catePg}.html","分类":"国产大区$1#日韩大区$2#欧美大区$3#其它视频$4","类型":"国产精品$13#网曝吃瓜$6#自拍偷拍$7#传媒出品$8#网红主播$9#大神探花$10#抖阴视频$11#国产其它$12||日韩精品$14#日韩无码$15#日韩有码$16#中文字幕$20#萝莉少女$21#人妻熟妇$22#韩国主播$23#日韩其它$24||欧美精品$5#欧美无码$25#欧美另类$26#欧美其它$27||AI换脸$28#AV解说$29#三级伦理$30#成人动漫$31"
-     }
-     },      
     {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
@@ -88,37 +77,7 @@
         "ext":"https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/鲨鱼av.json",
         "jar":"https://ghproxy.net/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/jar/xbpq.jar"
       },     
-    {
-            "key": "🔞淫岛专场",
-            "name": "🔞淫岛专场",
-            "type": 3,
-            "api": "csp_XBPQ",            
-            "jar":"./jar/淫岛.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://epy.sxbd2.yachts/cn/home/web/",
-                "数组": "默认--cat\"&&thumb||首页--最新发布&&thumb",
-                "标题": "默认--title=\"&&\"||首页--title=\"&&\"",
-                "图片": "默认--data-original=\"&&\"||首页--data-src=\"&&\"",
-                "链接": "默认--href=\"&&\"||首页--href=\"&&\"",
-                "简介": "description\" content=\"&&\"",
-                "搜索模式": "1",
-                "搜索url": "https://epy.sxbd2.yachts/s/{wd}/page/{pg}.html",
-                "搜索数组": "image-container&&</header>",
-                "搜索标题": "title=\"&&\"",
-                "搜索图片": "data-src=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "分类url": "https://epy.sxbd2.yachts/vodtype/{cateId}-{catePg}.html;;z",
-                "分类二次截取": "hulian\">&&</div>",
-                "分类数组": "<a&&/a>",
-                "分类标题": ">&&<",
-                "分类ID": "/vodtype/&&.html"
-            }
-        }, 
+    
    {
    "key":"csp_XBPQ_高清SEX国产",
    "name":"🔞高清SEX国产",
