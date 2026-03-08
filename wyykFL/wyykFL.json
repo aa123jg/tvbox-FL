@@ -38,17 +38,20 @@
             "ext": "2",//ext改为0就是正常和瑟瑟，2是瑟瑟，1是正常
             "changeable": 1
         },
-    {
-    "key":"xBPQ_爱喷射 ",
-    "name":"🔞️爱喷射💚",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1,
-    "jar":"./jar/xyqxbpq.jar",
-    "ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":" https://apsapsapsapsapsaps.903286.xyz/ ","搜索url":" https://apsapsapsapsapsaps.903286.xyz/index.php/vod/search.html?wd= {wd}","直接播放":"1","分类url":" https://apsapsapsapsapsaps.903286.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"主播秀色$24#国产人妻$47#国产SM$48#国产丝袜$49#国产乱伦$50#明星换脸$51#同性恋$52#探花嫖娼$53#偷拍自拍$61#主播网红$62#门事件$63#探花系列$64#抖阴视频$65#网曝系列$57#自拍偷拍$58#精品推荐$59"}
-    },
+   {
+      "key":"樂吧资源",
+      "name":"🔞 樂吧资源",
+      "type":1,
+      "api":"http://lbapiby.com/api.php/provide/vod",
+      "playerUrl":""
+      },
+   {
+      "key":"番号资源",
+      "name":"🔞 番号资源",
+      "type":0,
+      "api":"http://fhapi9.com/api.php/provide/vod/at/xml",
+      "playerUrl":""
+      },
     {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
@@ -123,15 +126,6 @@
       "quickSearch": 1,
       "filterable": 0
        },    
-     {
-      "key":"*白嫖资源",
-      "name":"🔞白嫖资源",
-      "type":0,
-      "api":"https://www.kxgav.com/api/xml.php",
-       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-       },
        {"key":"乐播资源",
        "name":"🔞乐播资源",
        "type":1,
@@ -146,42 +140,6 @@
        "searchable":1,
        "quickSearch":1
        } ,
-       {
-      "key":"*黄色仓库资源",
-      "name":"🔞黄色仓库",
-      "type":0,
-      "api":"https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-       },
-      {
-      "key":"*淫水机资源",
-      "name":"🔞淫水机",
-      "type":0,
-      "api":"https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-       },
-       {
-       "key": "美少女",
-       "name": "🔞美少女",
-       "type": 0,
-       "api": "https://www.msnii.com/api/xml.php",
-       "searchable": 0,
-       "quickSearch": 0,
-       "filterable": 0
-      },
-      {
-       "key": "香奶儿",
-       "name": "🔞香奶儿",
-       "type": 0,
-       "api":"https://www.gdlsp.com/api/xml.php",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1
-     },	 
    	{
 	  "key": "hipy_js_36直播[密]",
 	  "name": "🔞36直播",
@@ -193,9 +151,7 @@
 	  "order_num": 0,
 	  "ext": "./drpy_js/36直播[密].js"
 	  },
-
-
-   { 
+     { 
       "key":"push_agent",
       "name":"💻01.20更新",
       "type":3,
