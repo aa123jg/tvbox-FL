@@ -39,13 +39,6 @@
             "changeable": 1
         },
    {
-      "key":"樂吧资源",
-      "name":"🔞 樂吧资源",
-      "type":1,
-      "api":"http://lbapiby.com/api.php/provide/vod",
-      "playerUrl":""
-      },
-   {
       "key":"番号资源",
       "name":"🔞 番号资源",
       "type":0,
