@@ -23,28 +23,6 @@
         "filterable": 0,
         "ext":"./lib/直播.json"
     },   
-     {
-            "key": "采集集合",
-            "name": "🔞️ 采集集合",
-            "type": 4,
-            "api": "
-                  http://zhangqun1818.serv00.net/cj/cjjh.php
-                  ",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "ext": "3",//ext改为0就是正常和瑟瑟，2是瑟瑟，1是正常
-            "changeable": 1
-        },
-   {
-      "key":"番号资源",
-      "name":"🔞 番号资源",
-      "type":0,
-      "api":"http://fhapi9.com/api.php/provide/vod/at/xml",
-      "playerUrl":""
-      },
     {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
