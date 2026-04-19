@@ -1,7 +1,7 @@
 
 {
 	
-	"spider": "./jar/spider.jar",
+	"spider": "./jar/xyqxbpq.jar",
     "lives": [{
 		    "name": "live2",
 		    "type": 0,
@@ -23,28 +23,6 @@
         "filterable": 0,
         "ext":"./lib/直播.json"
     },   
-     {
-            "key": "采集集合",
-            "name": "🔞️ 采集集合",
-            "type": 4,
-            "api": "
-                  http://zhangqun1818.serv00.net/cj/cjjh.php
-                  ",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "ext": "2",//ext改为0就是正常和瑟瑟，2是瑟瑟，1是正常
-            "changeable": 1
-        },
-   {
-      "key":"番号资源",
-      "name":"🔞 番号资源",
-      "type":0,
-      "api":"http://fhapi9.com/api.php/provide/vod/at/xml",
-      "playerUrl":""
-      },
     {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
@@ -74,7 +52,21 @@
              "categories": ["精品推荐","国产主播","国产乱伦","自拍偷拍","制服丝袜","网曝事件","传媒探花","清纯学生","A V 解说","淫妻作乐","港台辣妹","足浴撩妹","反差母狗","A I 换脸","V R 视角","重口性癖","制服诱惑","丝袜美腿","中文字幕","无码流出","多人群交","凌辱快感","角色剧情","强奸乱伦","韩国三级","欧美激情","人妻熟女","主奴调教","动漫卡通","变性伪娘","女同性恋","野外露出"
       ]
 		},
- 
+   {
+            "key": "https://1anime2025.me第一👿动漫",
+            "name": "🎬第一👿动漫",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","播放数组":"<div class=\"scroll-content\">&&</div>",
+"简介":"video-info-item video-info-content vod_content&&</div>",                "主页url": "http://1anime2026.me/",
+                "搜索url": "http://1anime2026.me/vodsearch/{wd}-------------.html",
+                "分类": "绅士影片库$3#里番$20#短片$21#3D$22",
+                "分类url": "https://1anime2026.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","地区":"大陆$%E5%A4%A7%E9%99%86#日本$%E6%97%A5%E6%9C%AC#其他$%E5%85%B6%E4%BB%96","语言":"国语$%E5%9B%BD%E8%AF%AD#英语$%E8%8B%B1%E8%AF%AD#日语$%E6%97%A5%E8%AF%AD","剧情":"无码&近亲&姐&妹&母&女儿&师生&情侣&青梅竹马&同事&JK&处女&御姐&熟女&人妻&老师&女医护士&OL&大小姐&偶像&女仆&巫女&修女&风俗娘&公主&女战士&魔法少女&异种族&妖精&魔物娘&兽娘&碧池&痴女&萝莉&幼女&不良少女&傲娇&病娇&无口&伪娘&扶他&短发&马尾&双马尾&巨乳&贫乳&黑皮肤&眼镜娘&兽耳&肌肉女$美人痣&白虎&阴毛&腋毛&大屌&水手服&体操服&泳装&比基尼&兔女郎&和服&围裙&啦啦队&旗袍&丝袜&吊袜带&热裤&迷你裙&性感内衣&丁字裤&高跟鞋&淫纹&纯爱&恋爱喜剧&后宫&开大车&公众场合&精神控制&药物&痴汉&阿嘿颜&精神崩溃&猎奇&捆绑&眼罩&项圈&调教&异物插入&肉便器&胃凸&强制&轮奸&凌辱&性暴力&逆强制&女王样&母女丼&姐妹丼&出轨&摄影&睡眠奸&机械奸&性转换&百合&耽美&异世界&怪兽&世界末日&手交&指交&乳交&肛交&脚交&拳交&群交&口交&口爆&吞精&舔蛋蛋&舔穴&自慰&腋交&舔腋下&内射&颜射&双洞齐下&怀孕&喷奶&放尿&排便&颜面骑乘&车震&性玩具&毒龙钻&触手&颈手枷&着衣&Queen Bee&Milky&EDGE&PoRO&PashminaA&chippai&魔人&BOOTLEG&ZIZ&PIXY&GREEN BUNNY&GOLD BEAR&妄想専科&BOMB! CUTE! BOMB!&こっとんど～る&ピンクパイナップル&ティーレックス&わるきゅ〜れ&nur","剧情值":"*"}},
+   
     {
        "key":"csp_XYQHiker_鲨鱼AV",
        "name":"🔞鲨鱼AV",
@@ -144,17 +136,74 @@
 	  "order_num": 0,
 	  "ext": "./drpy_js/36直播[密].js"
 	  },
+
+  {"key":"csp_XBPQ_猫娘动漫乐园","name":"🔞猫娘动漫乐园","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","":"","搜索url":"https://w0e--y4znt.jmaoniangdongman8.com/vodsearch/-------------/?wd={wd}","主页url":"https://w0e--y4znt.jmaoniangdongman8.com/topic/","分类url":"https://w0e--y4znt.jmaoniangdongman8.com/vodshow/{cateId}--{by}------{catePg}---/","分类":"动漫乐园$20#老司机动漫$110#猫娘乐园$21#TOP300$https://w0e--y4znt.jmaoniangdongman8.com/topic/","类型":"中字动漫$61#激情动漫$33#鬼父$178#舰娘$177#初犬2$188#性奴$181#奸染$212#强奸$223#恋骑士$176#対魔忍$186#NTR$197#放课后$206#姬骑士$210#渐进曲$213#牝教师$222#思春期$227#便利店$231#母子相奸$172#人妻诱惑$170#扶养幼女$169||透明人间$230#毁灭交响曲$191#痴汉十人队$190#堕落女教师$183#悪の女干部$182#桜都字幕组$157#极度虐待狂$154#一次性女孩$150#漆黑的射干$143#公主的性癖$208#股人出租车$209#和姐姐乱伦$215#露妮的药房$217#轮奸俱乐部$218#凌辱餐厅店员$175#秘密温泉之旅$173#方便的性伴侣$185#课後个人授业$180#女友x三姐妹$141||奶香香動漫$22#QueenBee$186#WhiteBlue$201#PeroPero老师$198#SweetHome$200||空"}},
+
+{"key":"xBPQ_18j","name":"🔞️18j💚","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://18zg.life/vod","直接播放":"1","分类url":"https://18zg.life/t/{cateId}/by/{by}/page/{catePg}/","分类":"国产$1#日韩$2#伦理$4#欧美$3#另类$39","类型":"国产自拍$5#主播大秀$6#国产探花$7#偷窥偷拍$8#乱伦系列$9#网爆吃瓜$10#抖音风格$11#国产AV$12#福利姬$20#主播诱惑$36#侵犯系列$37||日韩自拍$13#日韩无码$14#日本字幕$15#av解说$17#换脸明星$18||欧美自拍$21#欧美字幕$22||伦理三级$29#日韩伦理$30||同性恋系列$38#变性系列$40#重口味$23"}},
+
+
+{"key":"xBPQ_黄仓18","name":"🔞️黄仓18💚","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"搜索url":"http://1797ck.cc/vodsearch/{wd}----------{pg}---.html","主页url":"http://1797ck.cc/","分类url":"http://1797ck.cc//vodtype/{cateId}-{catePg}.html;;zm","简介":"时间：&&<","分类":"日韩AV$1#国产系列$2#欧美$3#成人动漫$4","类型":"无码中文$8#有码中文$9#日本无码$10#日本有码$7||国产视频$15||欧美高清$21||动漫剧情$22"}},
+
+{"key":"csp_XBPQ_兽奸初中生","name":"🔞兽奸初中生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"changeable":1,"ext":{"链接":"href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]","直接播放":"1","分类url":"https://1cg--6vsqq.shoujianchuzhong61s.com/vodshow/{cateId}--------{catePg}---/","分类":"🔮奥斯卡资源$20#🔮黄瓜资源$110#🔮JKUN 资源网$21#🔮奶香香资源$22#🔮siwa 资源$23","搜索url":"https://1cg--6vsqq.shoujianchuzhong61s.com/vodsearch/{wd}-------------/","类型":"国产视频$24#中文字幕$25#国产传媒$26#日本有码$27#日本无码$28#欧美无码$29#强奸乱伦$30#制服诱惑$31#国产主播$32#激情动漫$33#明星换脸$34#抖阴视频$35#女优明星$36#网曝黑料$40#伦理三级$41#AV解说$42#SM调教$43#萝莉少女$45#极品媚黑$46#女同性恋$47||国产精品$111#绿帽淫妻$112#国产探花$113#美女主播$114#明星淫梦$115#TS人妖$116#麻豆传媒$117#兔子先生$118#天美传媒$119#SA国际传媒$120#性世界$121#扣扣传媒$122#精东影业$123#蜜桃传媒$124#网曝门事件$125#杏吧传媒$139#果冻传媒$126#星空无限$127#葫芦影业$128#起点传媒$129||无||无||无||无"}}, 
+
+
+ {"key":"csp_XBPQ_母乱子伦","name":"🔞母乱子伦","type":3,"api":"csp_XBPQ",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","搜索url":"https://www.saaaa11.xyz/123/index.php/vod/search.html?wd={wd}","主页url":"https://xssss8.xyz/123/index.php/vod/type/id/241.html","分类url":"https://xssss8.xyz/123/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"制服诱惑$241#强奸乱伦$253#明星换脸$254#侵犯专区$256#家庭伦伦$257#SM专区$258#女同专区$259#AV解说$247#欧美专区$248#网曝门事件$249#中文字幕$240#无码专区$241#VR专区$242#明星淫梦$244#日韩专区$245#伦理三级$239#性感主播$238#国产视频$234#精品动漫$246#传媒视频$236#国产乱伦$237#约炮探花$265#极品学妹$266#乱伦极品$267#人妻极品$269#制服极品$270#独家调教$271"}},
+
+ {"key":"csp_XBPQ_成人影院","name":"🔞成人影院","type":3,"api":"csp_XBPQ",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"https://www.qvvv15.xyz/123/index.php/vod/search.html?wd={wd}","":"","主页url":"https://www.qvvv15.xyz/123/index.php/label/new.html","分类url":"https://www.qvvv15.xyz/123/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"偷拍偷窥$252#强奸乱伦$253#明星换脸$254#SM专区$258#女同专区$259#AV解说$247#欧美专区$248#网曝门事件$249#中文字幕$240#无码专区$241#VR专区$242#日韩专区$245#伦理三级$239#性感主播$238#国产视频$234#精品动漫$246#传媒视频$236#抖阴短片$263#萝莉少女$265#极品学妹$266#乱伦极品$267#调教门$268#制服门$269#人妻门$270#强奸黑料$271#出轨中文$272#巨乳少妇$274"}},
+
+  {"key":"csp_XBPQ_PWXXX视频","name":"🔞PWXXX视频","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","搜索url":"https://pwxxx.pwxxx33.fun/pwxxx/vod/search.html?wd={wd}","主页url":"https://pwxxx.pwxxx33.fun/pwxxx/","分类url":"https://pwxxx.pwxxx33.fun/pwxxx/vod/type/id/{cateId}/page/{catePg}.html","分类":"国产大区$1#日韩大区$2#欧美大区$3#其它视频$4","类型":"国产精品$13#网曝吃瓜$6#自拍偷拍$7#传媒出品$8#网红主播$9#大神探花$10#抖阴视频$11#国产其它$12||日韩精品$14#日韩无码$15#日韩有码$16#中文字幕$20#萝莉少女$21#人妻熟妇$22#韩国主播$23#日韩其它$24||欧美精品$5#欧美无码$25#欧美另类$26#欧美其它$27||AI换脸$28#AV解说$29#三级伦理$30#成人动漫$31"}},
+
+  {"key":"csp_XBPQ_小野猫","name":"🔞小野猫","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","链接":"href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]","搜索url":"https://dcx-drdjrara.wildcat-x02.sbs/vodsearch/-------------/?wd={wd}","主页url":"https://dcx-drdjrara.wildcat-x02.sbs/vodshow/24-----------/","分类url":"https://dcx-drdjrara.wildcat-x02.sbs/vodshow/{cateId}--{by}------{catePg}---/","分类":"奥斯卡资源$20#黄瓜资源$110#JKUN资源$21#奶香香资源$22#siwa资源$23","类型":"国产视频$24#中文字幕$25#国产传媒$26#日本有码$27#日本无码$28#欧美无码$29#强奸乱伦$30#制服诱惑$31#国产主播$32#激情动漫$33#明星换脸$34#抖阴视频$35#女优明星$36#网曝黑料$40#伦理三级$41#AV解说$42#SM调教$43#萝莉少女$45#极品媚黑$46#同性恋$47||国产精品$111#绿帽淫妻$112#国产探花$113#美女主播$114#明星淫梦$115#TS人妖$116#麻豆传媒$117#兔子先生$118#天美传媒$119#SA国际传媒$120#性世界$121#扣扣传媒$122#精东影业$123#蜜桃传媒$124#网曝门事件$125#杏吧传媒$139#果冻传媒$126#星空无限$127#葫芦影业$128#起点传媒$129||国产传媒$66#中文字幕$53#日本有码$54#日本无码$55#AV解说$56#cosplay$57#黑丝诱惑$58#SWAG$59#自拍偷拍$60#激情动漫$61#网红主播$62#探花系列$63#三级伦理$64#VR视角$65#素人搭讪$67#门事件$68||国产自拍$72#主播诱惑$73#探花约炮$74#偷拍偷窥$75#网曝吃瓜$76#抖阴短片$77#传媒剧情$78#日韩无码$80#中文字幕$81#AV解说$82#换脸明星$83#强奸乱伦$84#女优明星$85#欧美激情$86#重口激情$87#VR视角$92#剧情动漫$89#SM调教$90#同性恋$91||亚洲无码$93#亚洲有码$94#欧美情色$95#中文字幕$96#动漫卡通$97#美女主播$98#人妻熟女$99#日韩伦理$101#国产自拍$102#精选口爆$103#同性同志$104#重口味$105#91大神$107#AV解说$108||空||空"}},
+
+
+  {"key":"csp_XBPQ_肉欲猫视频","name":"🔞肉欲猫视频","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","":"","搜索url":"https://zflmdh11fi.rumao-font.cyou/index.php/vodsearch/-------------.html?wd={wd}","主页url":"https://zflmdh11fi.rumao-font.cyou/","分类url":"https://zflmdh11fi.rumao-font.cyou/vodshow/{cateId}--{by}---{letter}---{catePg}---{year}.html","分类":"国产$1#日本$2#欧美$5#动画视频$6","类型":"国产传媒$160#国产精品$10#精品三级$11#主播大秀$12#抖阴视频$13#国模私拍$14#颜射瞬间$15#女神学生$16#美熟少妇$17#娇妻素人$18#空姐模特$19#国产乱伦$20#AI专题$26#自慰群交$21#野合车震$22#职场同事$23#国产名人$24#网曝门事件$25#偷拍自拍$57#北京天使$119||中文字幕$9#骑兵有码$27#步兵无码$28#制服师生$50#强奸乱伦$51#人妻熟女$53#三级剧情$55#丝袜美腿$56#亚洲情色$58||欧美性爱$29#性爱音乐视频$93#MomsTeachSex$95#男同$32#女同$33#FakeTaxi$83#Barzzers$87#WowGirls$117#FamilyStrokes$116#人兽$30#人妖$31||成人漫画$60#卡通动漫$49"}},
+
+ {"key":"csp_XBPQ_WakuWaku","name":"🔞WakuWaku","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","链接":"href=\"&&\"[替换:voddetail>>v]", "直接播放":"1","搜索url":"https://b9t9a-61362-sz0803.wakuwakutvww3.cfd/s/?wd={wd}","主页url":"https://b9t9a-61362-sz0803.wakuwakutvww3.cfd/heartbeat","分类url":"https://b9t9a-61362-sz0803.wakuwakutvww3.cfd/t/{cateId}-{catePg}/","分类":"国产$20#日本有码$21#传媒系列$117#探花系列$153#上头黑料$155#令人上头$179#小清新$159#欧美$23#伦理$25#另类$41#","类型":"国产精品$26#国产自拍$29#国产剧情$27#国产偷拍$30#国产女奴$81#国产主播$35#国模私拍$85||空||空||空||空||空||空||空||空||空||空||空"}},
+
+{ "key": "地瓜", 
+     "name": "🔞地瓜", 
+     "type":3,
+     "api":"csp_XBPQ",  
+     "searchable": 1,
+     "quickSearch": 0,
+     "filterable": 1,                                                                       
+   "ext": {"编码": "UTF-8","请求头":"User-Agent$MOBILE_UA","播放数组":"<div class=\"v_con_box\">&&</div>",
+   "主页url":"https://www.112v.me/",
+   "分类url":"https://www.112v.me/vodtype/{cateId}/by/{by}/page/{catePg}/year/{year}.html",
+   "分类":"国产视频$6#国产自拍$7#国产偷拍$8#网红主播$9#清纯学生$10#国产探花$36#少妇淫妻$21#明星换脸$11#国产传媒$12#亚洲专区$22#日韩无码$23#欧美无码$24#中文字幕$25#三级伦理$26#卡通动漫$27#巨乳美乳$28#强奸乱伦$29#制服丝袜$30#少女萝莉$31#人妻熟女$32#群交口交$33#日本素人$37#高清名优$38","排序":"今日点击排行$hot#本周排行$hits_week#本月排行$hits_month"}},
+
+    {
+       "key":"乱伦群视频",
+       "name":"🔞乱伦群视频",
+       "type":3,
+       "api":"csp_XBPQ",    
+       "jar": "./jar/xBPQ.jar",     
+       "searchable": 1,
+       "quickSearch": 0,
+       "filterable": 1,
+       "ext":{"编码": "UTF-8","请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 12；； TAS-AN00 Build/HUAWEITAS-AN00；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36","直接播放":"1","搜索url":"/llq/index.php/vod/search.html?wd={wd}","主页url":"https://web.llq6.cc/","分类url":"https://web.llq6.cc/llq/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html","分类":"黄瓜资源$87#老鸭资源$135#仓库资源$191#森林资源$117#奥斯卡资源$86#国产探花$97#绿帽淫妻$96#国产精品$95#国产乱伦$98#美女主播$99#明星换脸$100#香港三级$101#麻豆传媒$102#杏吧传媒$103#兔子先生$104#天美传媒$105#sa国际传媒$106#性世界$107#扣扣传媒$108#果冻传媒$109#星空无限$110#精东影业$111#葫芦影业$112#蜜桃传媒$113#起点传媒$114"}
+},
+
+     {
+            "key": "滴滴资源",
+            "name": "🔞滴滴资源",
+                      "type": 1,
+            "api": "https://api.ddapi.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
      { 
       "key":"push_agent",
-      "name":"💻01.20更新",
+      "name":"💻04.19更新",
       "type":3,
       "api":"csp_PushAgent",
       "playerType":1,
       "searchable":1,   
       "quickSearch":1,
       "filterable":0,
-      "ext":"./alitoken.txt"      
-      }   
+      "ext":""      
+      }
   ],
  "parses":[      
   {
