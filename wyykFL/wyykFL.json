@@ -29,7 +29,7 @@
       "type": 3,
       "api": "csp_XMVideo",
       "searchable": 1,
-      "filterable": 1,"jar":"https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+      "filterable": 1,"jar":"./jar/182.jar"
     },
     {
 	   "key":"黑料资源",
