@@ -11,7 +11,7 @@
 	    }],
 	
 	"sites": [
-  
+ 
       {
         "key": "csp_Live2Vod_2",
         "name": "┃🍓网络电视┃",
@@ -99,8 +99,22 @@
 
 {"key":"xBPQ_18j","name":"🔞️18j💚","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url":"https://18zg.life/vod","直接播放":"1","分类url":"https://18zg.life/t/{cateId}/by/{by}/page/{catePg}/","分类":"国产$1#日韩$2#伦理$4#欧美$3#另类$39","类型":"国产自拍$5#主播大秀$6#国产探花$7#偷窥偷拍$8#乱伦系列$9#网爆吃瓜$10#抖音风格$11#国产AV$12#福利姬$20#主播诱惑$36#侵犯系列$37||日韩自拍$13#日韩无码$14#日本字幕$15#av解说$17#换脸明星$18||欧美自拍$21#欧美字幕$22||伦理三级$29#日韩伦理$30||同性恋系列$38#变性系列$40#重口味$23"}
 },
-{"key":"xBPQ_黄仓18","name":"🔞️黄仓18💚","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"搜索url":"http://789161.xyz//vodsearch/{wd}----------{pg}---.html","主页url":"http://789161.xyz/","分类url":"http://789161.xyz/vodtype/{cateId}-{catePg}.html;;zm","简介":"时间：&&<","分类":"日韩AV$1#国产系列$2#欧美$3#成人动漫$4","类型":"无码中文$8#有码中文$9#日本无码$10#日本有码$7||国产视频$15||欧美高清$21||动漫剧情$22"}
-},
+{
+            "key": "黄色仓库",
+            "name": "🔞黄色仓库[采集]",
+            "type": 1,
+            "api": "http://789173.xyz/api.php/provide/vod//api.php/provide/vod/",
+            "categories": [
+                "日本有码",
+                "无码中文字幕",
+                "有码中文字幕",
+                "日本无码",
+                "国产视频",
+                "欧美高清",
+                "动漫剧情",
+                "骑兵破解"
+            ]
+        },
  {"key":"csp_XBPQ_母乱子伦","name":"🔞母乱子伦","type":3,"api":"csp_XBPQ",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","直接播放":"1","搜索url":"https://www.saaaa11.xyz/123/index.php/vod/search.html?wd={wd}","主页url":"https://xssss8.xyz/123/index.php/vod/type/id/241.html","分类url":"https://xssss8.xyz/123/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"制服诱惑$241#强奸乱伦$253#明星换脸$254#侵犯专区$256#家庭伦伦$257#SM专区$258#女同专区$259#AV解说$247#欧美专区$248#网曝门事件$249#中文字幕$240#无码专区$241#VR专区$242#明星淫梦$244#日韩专区$245#伦理三级$239#性感主播$238#国产视频$234#精品动漫$246#传媒视频$236#国产乱伦$237#约炮探花$265#极品学妹$266#乱伦极品$267#人妻极品$269#制服极品$270#独家调教$271"}},
 
  {"key":"csp_XBPQ_成人影院","name":"🔞成人影院","type":3,"api":"csp_XBPQ",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","搜索url":"https://www.qvvv15.xyz/123/index.php/vod/search.html?wd={wd}","":"","主页url":"https://www.qvvv15.xyz/123/index.php/label/new.html","分类url":"https://www.qvvv15.xyz/123/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"偷拍偷窥$252#强奸乱伦$253#明星换脸$254#SM专区$258#女同专区$259#AV解说$247#欧美专区$248#网曝门事件$249#中文字幕$240#无码专区$241#VR专区$242#日韩专区$245#伦理三级$239#性感主播$238#国产视频$234#精品动漫$246#传媒视频$236#抖阴短片$263#萝莉少女$265#极品学妹$266#乱伦极品$267#调教门$268#制服门$269#人妻门$270#强奸黑料$271#出轨中文$272#巨乳少妇$274"}},
