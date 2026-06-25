@@ -32,9 +32,8 @@
       "filterable": 1,
       "jar": "./jar/182.jar"
     },
-
-    
-           {"key":"黑料资源",
+    {
+       "key":"黑料资源",
        "name":"🔞黑料资源",
        "type":1,
        "api":"https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list",
@@ -102,9 +101,9 @@
 
 {
             "key": "黄色仓库",
-            "name": "🔞黄色仓库[采集]",
+            "name": "🔞黄色仓库",
             "type": 1,
-            "api": "http://789175.xyz/api.php/provide/vod//api.php/provide/vod/",
+            "api": "http://789181.xyz/api.php/provide/vod//api.php/provide/vod/",
             "categories": [
                 "日本有码",
                 "无码中文字幕",
