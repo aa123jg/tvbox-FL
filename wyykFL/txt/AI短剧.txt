@@ -412,6 +412,8 @@
 《办公室风情-2》,https://c10.hs100.top/20260908/b4563fd8912cd80d/index.m3u8
 《子豪的秘密教学-1》,https://c10.hs100.top/20260923/44d1d66b44ada14a/index.m3u8
 《子豪的秘密教学-2》,https://c10.hs100.top/20260923/2320ed6932b37614/index.m3u8
+《子豪的秘密教学-3》,https://c10.hs100.top/20260924/df888094c3df2b3a/index.m3u8
+《子豪的秘密教学-4》,https://c10.hs100.top/20260924/8f4d57404c511b2d/index.m3u8
 《虚荣心的代价-2》,https://c10.hs100.top/20260907/db56528dd5437875/index.m3u8
 《虚荣心的代价-3》,https://c10.hs100.top/20260907/e08c9e68c9eb6016/index.m3u8
 《虚荣心的代价-4》,https://c10.hs100.top/20260907/937fa1334c845f07/index.m3u8
@@ -660,6 +662,10 @@
 《我的岳母苏沛真-11》,https://c10.hs100.top/20260920/93fa82059565a1db/index.m3u8
 《我的岳母苏沛真-12》,https://c10.hs100.top/20260920/252719bf467fd61f/index.m3u8
 《我的岳母苏沛真-13》,https://c10.hs100.top/20260920/ec17304781b92798/index.m3u8
+《我的岳母苏沛真-14》,https://c10.hs100.top/20260921/0991eaf17d5eff5f/index.m3u8
+《我的岳母苏沛真-15》,https://c10.hs100.top/20260921/4e7edacf22631fb6/index.m3u8
+《我的岳母苏沛真-16》,https://c10.hs100.top/20260923/8073f670a00d00b0/index.m3u8
+《我的岳母苏沛真-17》,https://c10.hs100.top/20260924/ca80376fe3d9dd34/index.m3u8
 《爸爸不在家-1》,https://c10.hs100.top/20260916/4edcd29cf23075ce/index.m3u8
 《爸爸不在家-2》,https://c10.hs100.top/20260916/6ec3473bbd200dcd/index.m3u8
 《爸爸不在家-3》,https://c10.hs100.top/20260916/8bd9b50d5eba0224/index.m3u8
@@ -744,6 +750,7 @@
 《共享逼时代-11》,https://c10.hs100.top/20260918/49be4a412ce9be92/index.m3u8
 《共享逼时代-12》,https://c10.hs100.top/20260921/595e7bd684f21cbd/index.m3u8
 《共享逼时代-13》,https://c10.hs100.top/20260921/65f8ad3f95bb986a/index.m3u8
+《共享逼时代-14》,https://c10.hs100.top/20260923/07e68770d0755623/index.m3u8
 《妻子孝道-1》,https://c10.hs100.top/20260913/d35ef1fdc5d1b84e/index.m3u8
 《妻子孝道-2》,https://c10.hs100.top/20260913/0f7f14f35d0c1e80/index.m3u8
 《妻子孝道-3》,https://c10.hs100.top/20260913/cff3e3b0c8e3d76f/index.m3u8
@@ -783,8 +790,8 @@
 《鸡榜啼鸣-1》,https://c10.hs100.top/20260903/1b28c95a5f779f81/index.m3u8
 《鸡榜啼鸣-2》,https://c10.hs100.top/20260903/a99088baf84340ae/index.m3u8
 《鸡榜啼鸣-3》,https://c10.hs100.top/20260903/4c8de2159d1e3adc/index.m3u8
-《分手后被精神小妹收留-1》，https://zuzucast.top/api/drama/hls/rp_6ab1f96fca57c75f779b7e09/1/play.m3u8?line=line3&exp=1790274683&sig=59f9a7e9ad686a3cdd49924d74d611dfab6c3cd6412397572cf3cff660c3b9bd&uid=31670580
-《分手后被精神小妹收留-2》，https://zuzucast.top/api/drama/hls/rp_6ab1f96fca57c75f779b7e09/2/play.m3u8?line=line3&exp=1790274683&sig=e4fc58af120b46f1abf6493960e29b683a8be26fdc2aab6434d2918e0756e36a&uid=31670580
+《分手后被精神小妹收留-1》,https://zuzucast.top/api/drama/hls/rp_6ab1f96fca57c75f779b7e09/1/play.m3u8?line=line3&exp=1790274683&sig=59f9a7e9ad686a3cdd49924d74d611dfab6c3cd6412397572cf3cff660c3b9bd&uid=31670580
+《分手后被精神小妹收留-2》,https://zuzucast.top/api/drama/hls/rp_6ab1f96fca57c75f779b7e09/2/play.m3u8?line=line3&exp=1790274683&sig=e4fc58af120b46f1abf6493960e29b683a8be26fdc2aab6434d2918e0756e36a&uid=31670580
 《从一根烟，到七个人挤在大床上-1》,https://c10.hs100.top/20260921/523d51e161da6633/index.m3u8
 《从一根烟，到七个人挤在大床上-2》,https://c10.hs100.top/20260921/543d66cc77599e8a/index.m3u8
 《从一根烟，到七个人挤在大床上-3》,https://c10.hs100.top/20260921/0d896cddf6bdb762/index.m3u8
