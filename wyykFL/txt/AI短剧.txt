@@ -646,6 +646,15 @@
 《穿过薄雾的早晨-7》第二季,https://c10.hs100.top/20260907/a66c56e43c837ce9/index.m3u8
 《穿过薄雾的早晨-8》第二季,https://c10.hs100.top/20260907/30fcce77f938bce8/index.m3u8
 《穿过薄雾的早晨-9》第二季,https://c10.hs100.top/20260907/e6401fc38284cd31/index.m3u8
+《村长情妇-1》,https://c10.hs100.top/20260925/e02b957749d7031f/index.m3u8
+《村长情妇-2》,https://c10.hs100.top/20260925/186165dd81c0e98f/index.m3u8
+《村长情妇-3》,https://c10.hs100.top/20260925/2b4eefd605074cdf/index.m3u8
+《村长情妇-4》,https://c10.hs100.top/20260925/01dbc08563136bcd/index.m3u8
+《村长情妇-5》,https://c10.hs100.top/20260925/d934949d4ca0f49d/index.m3u8
+《白鹿原2之爱在玉米地-1》,https://c10.hs100.top/20260925/e7d63c4476cbe944/index.m3u8
+《白鹿原2之爱在玉米地-2》,https://c10.hs100.top/20260925/0abcee78ffa7b1ff/index.m3u8
+《白鹿原2之爱在玉米地-3》,https://c10.hs100.top/20260925/ea92de05ec46b15e/index.m3u8
+《白鹿原2之爱在玉米地-4》,https://c10.hs100.top/20260925/f2deb0dc0d1059ba/index.m3u8
 
 家庭短剧,#genre#
 
@@ -666,6 +675,7 @@
 《我的岳母苏沛真-15》,https://c10.hs100.top/20260921/4e7edacf22631fb6/index.m3u8
 《我的岳母苏沛真-16》,https://c10.hs100.top/20260923/8073f670a00d00b0/index.m3u8
 《我的岳母苏沛真-17》,https://c10.hs100.top/20260924/ca80376fe3d9dd34/index.m3u8
+《岳母交换计划1-7》,https://c10.hs100.top/20260925/da414aea83210f4b/index.m3u8
 《爸爸不在家-1》,https://c10.hs100.top/20260916/4edcd29cf23075ce/index.m3u8
 《爸爸不在家-2》,https://c10.hs100.top/20260916/6ec3473bbd200dcd/index.m3u8
 《爸爸不在家-3》,https://c10.hs100.top/20260916/8bd9b50d5eba0224/index.m3u8
@@ -818,6 +828,41 @@
 《牛来爆操》,https://c10.hs100.top/20260915/f42b299548c17d55/index.m3u8
 《阿拉丁神灯》,https://c10.hs100.top/20260908/fde95814f364a6b7/index.m3u8
 
+异界短剧,#genre#
+
+《异世界种田-1》,https://c10.hs100.top/20260925/01c306980c104be1/index.m3u8
+《异世界种田-2》,https://c10.hs100.top/20260925/526737635a8f26e6/index.m3u8
+《异世界种田-3》,https://c10.hs100.top/20260925/ccb5ba70268ae772/index.m3u8
+《异世界种田-4》,https://c10.hs100.top/20260925/578c41b4081f7313/index.m3u8
+《异世界种田-5》,https://c10.hs100.top/20260925/433c454399ce26fa/index.m3u8
+《雪狼太子神兔妻》,https://c10.hs100.top/20260925/e82f19dc49886c9f/index.m3u8
+《魔界赘婿-1》,https://c10.hs100.top/20260913/b1cdee6f32ee5a57/index.m3u8
+《魔界赘婿-2》,https://c10.hs100.top/20260913/92008868e4fdda2d/index.m3u8
+《魔界赘婿-3》,https://c10.hs100.top/20260913/a74d6121363bacc1/index.m3u8
+《魔界赘婿-4》,https://c10.hs100.top/20260913/e97395bebba2cb12/index.m3u8
+《魔界赘婿-5》,https://c10.hs100.top/20260913/a5900564f03ea31d/index.m3u8
+《驱魔师主理人-1》,https://c10.hs100.top/20260910/fc1c8b2894904e78/index.m3u8
+《驱魔师主理人-2》,https://c10.hs100.top/20260910/381fca775291e4c3/index.m3u8
+《驱魔师主理人-3》,https://c10.hs100.top/20260910/603a552d6208d0e9/index.m3u8
+《驱魔师主理人-4》,https://c10.hs100.top/20260910/eba3dd0f7b465938/index.m3u8
+《驱魔师主理人-5》,https://c10.hs100.top/20260913/19359dc924997572/index.m3u8
+《9PM-黑暗圣经-1》,https://c10.hs100.top/20260910/0b04cc9305bf5367/index.m3u8
+《9PM-黑暗圣经-2》,https://c10.hs100.top/20260910/50c70d9d7b412566/index.m3u8
+《9PM-黑暗圣经-3》,https://c10.hs100.top/20260910/9fdbbab63f1b0b40/index.m3u8
+《9PM-黑暗圣经-4》,https://c10.hs100.top/20260910/dd7362224c490d49/index.m3u8
+《9PM-黑暗圣经-5》,https://c10.hs100.top/20260910/4d53b9575e26c2c0/index.m3u8
+《9PM-黑暗圣经-6》,https://c10.hs100.top/20260910/3a585f0068fea6b9/index.m3u8
+《9PM-黑暗圣经-9》,https://c10.hs100.top/20260913/a073005f27336fa5/index.m3u8
+《9PM-黑暗圣经第二季-1》,https://c10.hs100.top/20260913/84febc6fe24ed896/index.m3u8
+《9PM-黑暗圣经第二季-2》,https://c10.hs100.top/20260913/4132871d5e96a95c/index.m3u8
+《盗梦空间系列之姐姐的最后一晚》,https://c10.hs100.top/20260904/e05e5ea79d62d89a/index.m3u8
+《小红帽大战大灰狼》,https://c10.hs100.top/20260903/2fcb68a9a86f8fb3/index.m3u8
+《驱魔人》,https://c10.hs100.top/20260903/bcfc4af7fac02bdb/index.m3u8
+《星之夢魘-1》,https://c10.hs100.top/20260906/c1e06e24743fe64c/index.m3u8
+《星之夢魘-2》,https://c10.hs100.top/20260908/5a44cc7e7d2d5a8a/index.m3u8
+《夜伴灵姬》,https://c10.hs100.top/20260908/78271fd7d2b6b2da/index.m3u8
+《诸神黄昏》下集,https://c10.hs100.top/20260907/7dacb4effec87cfa/index.m3u8
+
 杂项短剧,#genre#
 
 《逆徒》,https://c10.hs100.top/20260917/7e1e38c650bd6952/index.m3u8
@@ -844,16 +889,6 @@
 《忍界后宫》,https://c10.hs100.top/20260913/1d8e376bc8744136/index.m3u8
 《豪门偏偏宠上你-1》,https://c10.hs100.top/20260913/9b732b0be2d73822/index.m3u8
 《豪门偏偏宠上你-2》,https://c10.hs100.top/20260913/e0b8607c42a2f8e3/index.m3u8
-《魔界赘婿-1》,https://c10.hs100.top/20260913/b1cdee6f32ee5a57/index.m3u8
-《魔界赘婿-2》,https://c10.hs100.top/20260913/92008868e4fdda2d/index.m3u8
-《魔界赘婿-3》,https://c10.hs100.top/20260913/a74d6121363bacc1/index.m3u8
-《魔界赘婿-4》,https://c10.hs100.top/20260913/e97395bebba2cb12/index.m3u8
-《魔界赘婿-5》,https://c10.hs100.top/20260913/a5900564f03ea31d/index.m3u8
-《驱魔师主理人-1》,https://c10.hs100.top/20260910/fc1c8b2894904e78/index.m3u8
-《驱魔师主理人-2》,https://c10.hs100.top/20260910/381fca775291e4c3/index.m3u8
-《驱魔师主理人-3》,https://c10.hs100.top/20260910/603a552d6208d0e9/index.m3u8
-《驱魔师主理人-4》,https://c10.hs100.top/20260910/eba3dd0f7b465938/index.m3u8
-《驱魔师主理人-5》,https://c10.hs100.top/20260913/19359dc924997572/index.m3u8
 《鸭王争霸》,https://c10.hs100.top/20260913/8fb3b7c7709856dc/index.m3u8
 《野欲爱是利多卡因-1》,https://c10.hs100.top/20260913/54577b0398d05c5f/index.m3u8
 《野欲爱是利多卡因-2》,https://c10.hs100.top/20260913/e2129c9970f040b8/index.m3u8
@@ -862,19 +897,10 @@
 《野欲爱是利多卡因-5》,https://c10.hs100.top/20260913/80233695276aaab9/index.m3u8
 《野欲爱是利多卡因-6》,https://c10.hs100.top/20260913/58dfd48064f0c05e/index.m3u8
 《野欲爱是利多卡因-7》,https://c10.hs100.top/20260913/7464d7785030a9bc/index.m3u8
-《9PM-黑暗圣经第二季-1》,https://c10.hs100.top/20260913/84febc6fe24ed896/index.m3u8
-《9PM-黑暗圣经第二季-2》,https://c10.hs100.top/20260913/4132871d5e96a95c/index.m3u8
 《分手后霸总给了我十亿精子》,https://c10.hs100.top/20260913/d1aa9b04928eb9f3/index.m3u8
 《大天蓬》,https://c10.hs100.top/20260912/2dc3b0d876c1eb31/index.m3u8
 《堕落物语系列之废物新兵的极品继姐》,https://c10.hs100.top/20260912/f006029e301eba9d/index.m3u8
 《等不到的他（她）》,https://c10.hs100.top/20260912/b2adc48cbd966290/index.m3u8
-《9PM-黑暗圣经-1》,https://c10.hs100.top/20260910/0b04cc9305bf5367/index.m3u8
-《9PM-黑暗圣经-2》,https://c10.hs100.top/20260910/50c70d9d7b412566/index.m3u8
-《9PM-黑暗圣经-3》,https://c10.hs100.top/20260910/9fdbbab63f1b0b40/index.m3u8
-《9PM-黑暗圣经-4》,https://c10.hs100.top/20260910/dd7362224c490d49/index.m3u8
-《9PM-黑暗圣经-5》,https://c10.hs100.top/20260910/4d53b9575e26c2c0/index.m3u8
-《9PM-黑暗圣经-6》,https://c10.hs100.top/20260910/3a585f0068fea6b9/index.m3u8
-《9PM-黑暗圣经-9》,https://c10.hs100.top/20260913/a073005f27336fa5/index.m3u8
 《临时的女友-1》,https://c10.hs100.top/20260904/d2d14ae46558b299/index.m3u8
 《临时的女友-2》,https://c10.hs100.top/20260911/ea3c59df896977e9/index.m3u8
 《双向欲臣-1》,https://c10.hs100.top/20260903/b2e807c29faea245/index.m3u8
@@ -948,7 +974,6 @@
 《间谍过家家约尔的黑丝肥臀》,https://c10.hs100.top/20260905/4cc7dce7c82e8a08/index.m3u8
 《峨眉山上的冒险》,https://c10.hs100.top/20260904/799f919a548f7e39/index.m3u8
 《巨乳少女街头舔巨屌》,https://c10.hs100.top/20260905/3708428112fb5fbc/index.m3u8
-《盗梦空间系列之姐姐的最后一晚》,https://c10.hs100.top/20260904/e05e5ea79d62d89a/index.m3u8
 《我成了大反派》,https://c10.hs100.top/20260904/585817e1873d022f/index.m3u8
 《糟糕的父兄》,https://c10.hs100.top/20260904/fc22c180de7c2c99/index.m3u8
 《与极品巨乳妹的性爱》,https://c10.hs100.top/20260904/866f246332293da2/index.m3u8
@@ -971,8 +996,6 @@
 《初恋的反差》,https://c10.hs100.top/20260903/bbf3333cf838339d/index.m3u8
 《学妹2》,https://c10.hs100.top/20260903/0cdc26685ac1d3a5/index.m3u8
 《哑巴新娘》,https://c10.hs100.top/20260903/665ba25d65352612/index.m3u8
-《小红帽大战大灰狼》,https://c10.hs100.top/20260903/2fcb68a9a86f8fb3/index.m3u8
-《驱魔人》,https://c10.hs100.top/20260903/bcfc4af7fac02bdb/index.m3u8
 《相亲系列之三餐可不够》,https://c10.hs100.top/20260903/5acd8e7d7cf90c38/index.m3u8
 《日式母女裸体寿司店》,https://c10.hs100.top/20260903/429d52921a9a466b/index.m3u8
 《商场露出》,https://c10.hs100.top/20260903/05803ffab1042baa/index.m3u8
@@ -993,9 +1016,6 @@
 《女仆的性爱服侍》,https://c10.hs100.top/20260908/61ad4fc86b4b7dbb/index.m3u8
 《开包》,https://c10.hs100.top/20260908/eba1550c1f6f4979/index.m3u8
 《他用祖传秘方治好了她》,https://c10.hs100.top/20260908/4e39d3d5d644ccbc/index.m3u8
-《星之夢魘-1》,https://c10.hs100.top/20260906/c1e06e24743fe64c/index.m3u8
-《星之夢魘-2》,https://c10.hs100.top/20260908/5a44cc7e7d2d5a8a/index.m3u8
-《夜伴灵姬》,https://c10.hs100.top/20260908/78271fd7d2b6b2da/index.m3u8
 《外卖小哥沦陷记》,https://c10.hs100.top/20260908/fd8ed664affd868e/index.m3u8
 《职场NTR之：我年轻先干为敬》,https://c10.hs100.top/20260908/17e1592070456d9d/index.m3u8
 《约了个萌脸骚》,https://c10.hs100.top/20260908/990817c2703a215c/index.m3u8
@@ -1047,7 +1067,6 @@
 《爱豆见面会》,https://c10.hs100.top/20260907/0272138c27aa3f91/index.m3u8
 《银行贵宾招待方式》,https://c10.hs100.top/20260907/d1199f518dd2d01e/index.m3u8
 《最后一节车厢》,https://c10.hs100.top/20260907/570649a69a32c5bc/index.m3u8
-《诸神黄昏》下集,https://c10.hs100.top/20260907/7dacb4effec87cfa/index.m3u8
 《夜勤综合医院·顾温婉篇》,https://c10.hs100.top/20260907/f944992a3b672fb6/index.m3u8
 《我在魔兽世界开超市-精灵小姐》,https://c10.hs100.top/20260906/3397f76dc8240e87/index.m3u8
 《我在魔兽世界开超市-精灵小姐》,https://c10.hs100.top/20260906/98f2382d0af81e3a/index.m3u8
