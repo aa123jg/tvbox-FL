@@ -23,6 +23,30 @@
         "filterable": 0,
         "ext":"./lib/直播.json"
     },   
+   {
+      "key": "神秘电影",
+      "name": "🔞｜神秘电影ᵖʸ",
+      "type": 3,
+      "api": "./py/[瑟]神秘电影.py"
+    },
+   {
+      "key": "怦然心动.py",
+      "name": "🔞｜怦然心动ᵖʸ",
+      "type": 3,
+      "api": "./py/[瑟]怦然心动.py"
+    },
+     {
+      "key": "618影院.py",
+      "name": "🔞｜618影院ᵖʸ",
+      "type": 3,
+      "api": "./py/[瑟]618.py"
+    },
+   {
+      "key": "mjv011.py",
+      "name": "🔞｜mjv011ᵖʸ",
+      "type": 3,
+      "api": "./py/[瑟]mjv011.py"
+    },
     {
       "key": "XMVideo",
       "name": "🔞熊猫视频",
