@@ -7,9 +7,9 @@ import sys
 import time
 from base64 import b64decode
 from urllib.parse import quote
-from Crypto.Cipher import AES
-from Crypto.Hash import MD5
-from Crypto.Util.Padding import unpad
+from Cryptodome.Cipher import AES
+from Cryptodome.Util.Padding import unpad
+from cryptography.hazmat.primitives import hashes
 sys.path.append('..')
 from base.spider import Spider
 
@@ -207,9 +207,9 @@ class Spider(Spider):
         return did
 
     def md5(self, text):
-        h = MD5.new()
+        h = hashes.Hash(hashes.MD5())
         h.update(text.encode('utf-8'))
-        return h.hexdigest()
+        return h.finalize().hex()
 
     def imgs(self, param):
         headers = {'User-Agent': self.ua}
