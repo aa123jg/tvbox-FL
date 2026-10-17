@@ -572,6 +572,7 @@
 《催眠眼镜-3》,https://c10.hs100.top/20260926/78687d144e451cb3/index.m3u8
 《催眠眼镜-4》,https://c10.hs100.top/20261010/d9cae54eb383745a/index.m3u8
 《催眠眼镜-5》,https://c10.hs100.top/20261013/9463f930ce71f4b0/index.m3u8
+《催眠眼镜-6》,https://c10.hs100.top/20261017/4843221beac5b7e5/index.m3u8
 《健身教练-1》,https://c10.hs100.top/20261013/33e170c3fe20f76b/index.m3u8
 《健身教练-2》,https://c10.hs100.top/20261013/e0bef0c157e3140a/index.m3u8
 《健身教练-3》,https://c10.hs100.top/20261013/f59f64dacef1a30c/index.m3u8
@@ -579,6 +580,12 @@
 《闺蜜觉醒-2》,https://c10.hs100.top/20261013/006d06173c38e4ea/index.m3u8
 《闺蜜觉醒-3》,https://c10.hs100.top/20261013/24f8bee4eb318763/index.m3u8
 《帅T机长与她的空姐们1-6》,https://c10.hs100.top/20261015/8cd6ace2b44b6930/index.m3u8
+《许家印和他的恒大歌舞团-1》,https://c10.hs100.top/20261016/97283800ead5d5a7/index.m3u8
+《许家印和他的恒大歌舞团-2》,https://c10.hs100.top/20261016/9dc865a0be8cf4ff/index.m3u8
+《许家印和他的恒大歌舞团-3》,https://c10.hs100.top/20261016/eb3cf8a6ca7ceff2/index.m3u8
+《许家印和他的恒大歌舞团-4》,https://c10.hs100.top/20261016/55e1f60ca021e694/index.m3u8
+《许家印和他的恒大歌舞团-5》,https://c10.hs100.top/20261016/0d5a96c0b7f06ec1/index.m3u8
+《许家印和他的恒大歌舞团-6》,https://c10.hs100.top/20261016/32b61d2c2999f88f/index.m3u8
 
 校园短剧,#genre#
 
@@ -922,6 +929,7 @@
 《母上攻略-9》,https://c10.hs100.top/20261009/024e5b2d2f4c9cbf/index.m3u8
 《母上攻略-10》,https://c10.hs100.top/20261011/9b3cf1b6faf90745/index.m3u8
 《母上攻略-11》,https://c10.hs100.top/20261013/2da48e2585abd239/index.m3u8
+《母上攻略-12》,https://c10.hs100.top/20261017/18346ce65bdbddd0/index.m3u8
 《兄弟妈妈好好操-1》,https://c10.hs100.top/20260915/0cdd0f4743a40a61/index.m3u8
 《兄弟妈妈好好操-2》,https://c10.hs100.top/20260915/293a7f78d909ccf0/index.m3u8
 《兄弟妈妈好好操-3》,https://c10.hs100.top/20260919/f3f0194f9cb68aca/index.m3u8
