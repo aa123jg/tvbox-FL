@@ -23,14 +23,73 @@
         "filterable": 0,
         "ext":"./lib/直播.json"
     },   
-    {
-      "key": "滴滴资源",
-      "name": "🦋 滴滴资源｜🔞",
-      "type": 1,
-      "api": "https://api.ddapi.cc/api.php/provide/vod/at/json",
+        {
+      "key": "fwd_jinguoduanju",
+      "name": "🔞｜禁果AI短剧",
+      "type": 3,
+      "api": "./js/fwd_rex.js",
+      "ext": {
+        "url": "./js/JingGuo_TuT.js"
+      },
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "logo": "https://fwd.uou.qzz.io/icon.png"
+    },
+        {
+      "key": "fwd_huangju",
+      "name": "🔞｜红果AI黄剧",
+      "type": 3,
+      "api": "./js/fwd_rex.js",
+      "ext": {
+        "url": "./js/Huangju_TuT.js"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "logo": "https://fwd.uou.qzz.io/icon.png"
+    },
+       {
+      "key": "fwd_mitao",
+      "name": "🔞｜蜜桃视频",
+      "type": 3,
+      "api": "./js/fwd_rex.js",
+      "ext": {
+        "url": "./js/Mitao_TuT.js"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "logo": "https://fwd.uou.qzz.io/icon.png"
+    },
+       {
+      "key": "fwd_bianfu",
+      "name": "🔞｜蝙蝠视频",
+      "type": 3,
+      "api": "./js/fwd_rex.js",
+      "ext": {
+        "url": "./js/Bianfu_TuT.js"
+      },
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "logo": "https://fwd.uou.qzz.io/icon.png"
     },
     {
       "key": "XMVideo",
