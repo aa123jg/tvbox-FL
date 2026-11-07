@@ -59,6 +59,7 @@
 《重生在魔门合欢殿当弟子-1》,https://c10.hs100.top/20261030/4cc4c6c70e8d0c6f/index.m3u8
 《重生在魔门合欢殿当弟子-2》,https://c10.hs100.top/20261103/38daa27681b74bc0/index.m3u8
 《重生在魔门合欢殿当弟子-3》,https://c10.hs100.top/20261104/392a24c0a690d494/index.m3u8
+《重生在魔门合欢殿当弟子-4》,https://c10.hs100.top/20261106/320512124b617c7a/index.m3u8
 
 家庭剧情,#genre#
 
@@ -108,6 +109,7 @@
 《奴隶驯化系统：从丈母娘开始-4》,https://c10.hs100.top/20261014/f3570a5d9f2a403d/index.m3u8
 《奴隶驯化系统：从丈母娘开始-5》,https://c10.hs100.top/20261029/f4f1aecac79442fe/index.m3u8
 《奴隶驯化系统：从丈母娘开始-6》,https://c10.hs100.top/20261102/91868f4a11f48011/index.m3u8
+《奴隶驯化系统：从丈母娘开始-7》,https://c10.hs100.top/20261105/25a07a09519e6251/index.m3u8
 《妈妈陪儿子高考1-11》,https://c10.hs100.top/20261018/379bf732163158bd/index.m3u8
 《婚礼前夜，我发现了新郎的秘密-1》,https://c10.hs100.top/20261007/8f0bfe0508676d5e/index.m3u8
 《婚礼前夜，我发现了新郎的秘密-2》,https://c10.hs100.top/20261007/3ca73c692b34bb52/index.m3u8
@@ -221,11 +223,25 @@
 《上门修逼-2》,https://c10.hs100.top/20261101/f701e30d1aa78daa/index.m3u8
 《上门修逼-3》,https://c10.hs100.top/20261102/4812a73827b19183/index.m3u8
 《上门修逼-4》,https://c10.hs100.top/20261103/cde5b40810430dc7/index.m3u8
+《上门修逼-5》,https://c10.hs100.top/20261105/85f4f578474eab20/index.m3u8
 《链家租逼-1》,https://c10.hs100.top/20261102/b178c29b3d73bae9/index.m3u8
 《链家租逼-2》,https://c10.hs100.top/20261102/4b7161bc2f6799ce/index.m3u8
 《链家租逼-3》,https://c10.hs100.top/20261103/254f876cbd6c6dba/index.m3u8
 《链家租逼-4》,https://c10.hs100.top/20261104/82841bed8d788c38/index.m3u8
 《链家租逼-5》,https://c10.hs100.top/20261104/d15d8c0dc55841be/index.m3u8
+《链家租逼-6》,https://c10.hs100.top/20261105/79eaa180906472d9/index.m3u8
+《链家租逼-7》,https://c10.hs100.top/20261106/7be08e337b62c638/index.m3u8
+《带着AI老婆穿越2018-1》,https://c10.hs100.top/20261107/9aef469c554bed18/index.m3u8
+《带着AI老婆穿越2018-2》,https://c10.hs100.top/20261107/343a0c620e50408d/index.m3u8
+《带着AI老婆穿越2018-3》,https://c10.hs100.top/20261107/b7104b203f52b198/index.m3u8
+《带着AI老婆穿越2018-4》,https://c10.hs100.top/20261107/2ac79e40d8184fde/index.m3u8
+《带着AI老婆穿越2018-5》,https://c10.hs100.top/20261107/e1e524612c333404/index.m3u8
+《带着AI老婆穿越2018-6》,https://c10.hs100.top/20261107/aa7b4ab4e6abbe9a/index.m3u8
+《带着AI老婆穿越2018-7》,https://c10.hs100.top/20261107/8612f106de5d115a/index.m3u8
+《带着AI老婆穿越2018-8》,https://c10.hs100.top/20261107/60a1ca27d305348e/index.m3u8
+《带着AI老婆穿越2018-9》,https://c10.hs100.top/20261107/6934522775b6cadc/index.m3u8
+《带着AI老婆穿越2018-10》,https://c10.hs100.top/20261107/1bdc41e3b4b6cece/index.m3u8
+《带着AI老婆穿越2018-11》,https://c10.hs100.top/20261107/b1a590c72ee0ff42/index.m3u8
 
 乡村故事,#genre#
 
@@ -303,6 +319,7 @@
 《存在感:零-6》,https://c10.hs100.top/20261017/ba1f62d5f2528d6b/index.m3u8
 《存在感:零-7》,https://c10.hs100.top/20261017/c11dcc4705fbd908/index.m3u8
 《存在感:零-8》,https://c10.hs100.top/20261025/03b3907d356f3902/index.m3u8
+《存在感:零-9》,https://c10.hs100.top/20261105/1ea88f4ed6d501fa/index.m3u8
 《堕落血契-1》,https://c10.hs100.top/20261006/f35949ea4e33e880/index.m3u8
 《堕落血契-2》,https://c10.hs100.top/20261013/71bd8c8535daec62/index.m3u8
 《堕落血契-3》,https://c10.hs100.top/20261014/4b123de9de439d20/index.m3u8
