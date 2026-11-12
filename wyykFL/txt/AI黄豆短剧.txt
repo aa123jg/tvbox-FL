@@ -226,6 +226,9 @@
 《庆余年-1》,https://c10.hs100.top/20261024/6a10ef19303fc64c/index.m3u8
 《庆余年-2》,https://c10.hs100.top/20261028/3e66b88f5bb3b34f/index.m3u8
 《庆余年-3》,https://c10.hs100.top/20261028/0a5cb55f68bae1c3/index.m3u8
+《庆余年第三季-1》,https://c10.hs100.top/20261108/bca83b768201db4a/index.m3u8
+《庆余年第三季-2》,https://c10.hs100.top/20261108/62162feb5971fb1c/index.m3u8
+《庆余年第三季-3》,https://c10.hs100.top/20261108/d10172e424f0c1f5/index.m3u8
 《大淫侠-1》,https://c10.hs100.top/20261026/c20c26042eb7d428/index.m3u8
 《大淫侠-2》,https://c10.hs100.top/20261026/5814cdc6872e672e/index.m3u8
 《大淫侠-3》,https://c10.hs100.top/20261028/30e88b5a7fec5640/index.m3u8
@@ -259,6 +262,39 @@
 《重生在魔门合欢殿当弟子-4》,https://c10.hs100.top/20261106/320512124b617c7a/index.m3u8
 《我给师姐带绿帽，我无敌-1》,https://c10.hs100.top/20261103/42033e782ef0f6d3/index.m3u8
 《我给师姐带绿帽，我无敌-2》,https://c10.hs100.top/20261107/60af404a4a65b04d/index.m3u8
+《合欢宗之淫母记-1》,https://c10.hs100.top/20261108/27c9fbce801e3efc/index.m3u8
+《合欢宗之淫母记-2》,https://c10.hs100.top/20261108/fe29cb1cbae2a2bd/index.m3u8
+《合欢宗之淫母记-3》,https://c10.hs100.top/20261108/115ea72e6e1c424b/index.m3u8
+《合欢宗之淫母记-4》,https://c10.hs100.top/20261108/010f794b12668eab/index.m3u8
+《合欢宗之淫母记-5》,https://c10.hs100.top/20261108/db6e182550798a43/index.m3u8
+《合欢宗之淫母记-6》,https://c10.hs100.top/20261108/b2d61827bf9b6657/index.m3u8
+《合欢宗之淫母记-7》,https://c10.hs100.top/20261108/aa355d067b063e73/index.m3u8
+《合欢宗之淫母记-8》,https://c10.hs100.top/20261108/576205a208bc2636/index.m3u8
+《玉京藏锋-1》,https://c10.hs100.top/20261108/57931cf62bd94e57/index.m3u8
+《玉京藏锋-2》,https://c10.hs100.top/20261108/164f658665c8241e/index.m3u8
+《玉京藏锋-3》,https://c10.hs100.top/20261108/1d9523b70f9abd0d/index.m3u8
+《玉京藏锋-4》,https://c10.hs100.top/20261108/93bf87d6fa97f27c/index.m3u8
+《玉京藏锋-5》,https://c10.hs100.top/20261108/5d9a16847f590e1c/index.m3u8
+《玉京藏锋-6》,https://c10.hs100.top/20261108/90b04af63ce64e2c/index.m3u8
+《玉京藏锋-7》,https://c10.hs100.top/20261108/09c4ad36243ba967/index.m3u8
+《玉京藏锋-8》,https://c10.hs100.top/20261108/8d0c85edf4d2f3e7/index.m3u8
+《玉京藏锋-9》,https://c10.hs100.top/20261108/d9439bd124900685/index.m3u8
+《玉京藏锋-10》,https://c10.hs100.top/20261108/9b45c64092543a24/index.m3u8
+《美人局-1》,https://c10.hs100.top/20261108/5accd1453716844f/index.m3u8
+《美人局-2》,https://c10.hs100.top/20261108/64db4b24b21e21e6/index.m3u8
+《美人局-3》,https://c10.hs100.top/20261108/ad662e20298a184c/index.m3u8
+《美人局-4》,https://c10.hs100.top/20261108/47ca34f7bb2e1382/index.m3u8
+《美人局-5》,https://c10.hs100.top/20261108/80ff6f4d79a2dd86/index.m3u8
+《美人局-6》,https://c10.hs100.top/20261108/ef2667862f1ddf2a/index.m3u8
+《美人局-7》,https://c10.hs100.top/20261108/77cfff43c3a4c1ff/index.m3u8
+《美人局-8》,https://c10.hs100.top/20261108/71d0cba53df4b171/index.m3u8
+《美人局-9》,https://c10.hs100.top/20261108/1a73fa94959c8858/index.m3u8
+《甄嬛传：禁苑情劫-1》,https://c10.hs100.top/20261108/fb130cb5c70179ef/index.m3u8
+《甄嬛传：禁苑情劫-2》,https://c10.hs100.top/20261108/4d7d81ee58d7ac3e/index.m3u8
+《甄嬛传：禁苑情劫-3》,https://c10.hs100.top/20261108/5aa2c0daa4605c1d/index.m3u8
+《甄嬛传：禁苑情劫-4》,https://c10.hs100.top/20261108/ed4a2bf1306c4576/index.m3u8
+《甄嬛传：禁苑情劫-5》,https://c10.hs100.top/20261108/6a20247a78c76370/index.m3u8
+《甄嬛传：禁苑情劫-6》,https://c10.hs100.top/20261108/85bd7287f654037a/index.m3u8
 
 都市短剧,#genre#
 
@@ -393,6 +429,11 @@
 《等一个人回来第二季-1》,https://c10.hs100.top/20260908/04f7d72e7c0e0407/index.m3u8
 《等一个人回来第二季-2》,https://c10.hs100.top/20260908/fcacf621c48da95d/index.m3u8
 《等一个人回来第二季-3》,https://c10.hs100.top/20260909/0e503defd9a91ecf/index.m3u8
+《等一个人回来第二季-4》,https://c10.hs100.top/20261109/7f27f79f894db8ba/index.m3u8
+《等一个人回来第二季-5》,https://c10.hs100.top/20261109/fa704db854b0343b/index.m3u8
+《等一个人回来第二季-6》,https://c10.hs100.top/20261109/b920d695414e841f/index.m3u8
+《等一个人回来第二季-7》,https://c10.hs100.top/20261109/ded098b9b66b4359/index.m3u8
+《等一个人回来第二季-8》,https://c10.hs100.top/20261109/501456cff3e600dd/index.m3u8
 《春风知我蓄谋已久-1》,https://c10.hs100.top/20260908/f64d1ca2dcecfc58/index.m3u8
 《春风知我蓄谋已久-2》,https://c10.hs100.top/20260908/0628d29174834bd5/index.m3u8
 《春风知我蓄谋已久-3》,https://c10.hs100.top/20260909/279dd05e506c270e/index.m3u8
@@ -462,6 +503,26 @@
 《战神在我家吃软饭-7》,https://c10.hs100.top/20261107/2d4f1316a681d5e2/index.m3u8
 《战神在我家吃软饭-8》,https://c10.hs100.top/20261107/992e3059bf3ffe02/index.m3u8
 《战神在我家吃软饭-9》,https://c10.hs100.top/20261107/1779fdfe4da4dc6f/index.m3u8
+《月拥便枕欲凉梦-1》,https://c10.hs100.top/20261109/69d30641e531b30e/index.m3u8
+《月拥便枕欲凉梦-2》,https://c10.hs100.top/20261109/b477e5660c88df1a/index.m3u8
+《月拥便枕欲凉梦-3》,https://c10.hs100.top/20261109/144a2562f1db575a/index.m3u8
+《月拥便枕欲凉梦-4》,https://c10.hs100.top/20261109/bbd471aa5377c7fd/index.m3u8
+《月拥便枕欲凉梦-5》,https://c10.hs100.top/20261109/acdc77bd578b74cc/index.m3u8
+《月拥便枕欲凉梦-6》,https://c10.hs100.top/20261109/5080641fa57accc4/index.m3u8
+《月拥便枕欲凉梦-7》,https://c10.hs100.top/20261109/0d995b3239f177eb/index.m3u8
+《月拥便枕欲凉梦-8》,https://c10.hs100.top/20261109/42f0ba80b63fa984/index.m3u8
+《月拥便枕欲凉梦-9》,https://c10.hs100.top/20261109/28976bd685a796ea/index.m3u8
+《月拥便枕欲凉梦-10》,https://c10.hs100.top/20261109/6ed79efe90a84743/index.m3u8
+《不挨操就挨罚-1》,https://c10.hs100.top/20261109/ab4638d538e6cffe/index.m3u8
+《不挨操就挨罚-2》,https://c10.hs100.top/20261109/37463936107ad972/index.m3u8
+《不挨操就挨罚-3》,https://c10.hs100.top/20261109/87a7aaaca5b1311a/index.m3u8
+《不挨操就挨罚-4》,https://c10.hs100.top/20261109/ca8960323eb42e25/index.m3u8
+《不挨操就挨罚-5》,https://c10.hs100.top/20261109/333595772ccc86e1/index.m3u8
+《不挨操就挨罚-6》,https://c10.hs100.top/20261109/42ab6f2111fc507c/index.m3u8
+《不挨操就挨罚-7》,https://c10.hs100.top/20261109/9c8f263849524f48/index.m3u8
+《不挨操就挨罚-8》,https://c10.hs100.top/20261109/bff0c17e7701217a/index.m3u8
+《不挨操就挨罚-9》,https://c10.hs100.top/20261109/619d208973dbd9e3/index.m3u8
+《不挨操就挨罚-10》,https://c10.hs100.top/20261109/dd66135fbb6af7f3/index.m3u8
 
 职场短剧,#genre#
 
@@ -511,6 +572,9 @@
 《深夜加班，绝望办公室-6》,https://c10.hs100.top/20261107/59b00ad9dc565684/index.m3u8
 《深夜加班，绝望办公室-7》,https://c10.hs100.top/20261107/dbdc4f78f717f118/index.m3u8
 《深夜加班，绝望办公室-8》,https://c10.hs100.top/20261107/b9b2fc3aba35380a/index.m3u8
+《律政俏娇人-1》,https://c10.hs100.top/20261112/7336576da325068b/index.m3u8
+《律政俏娇人-2》,https://c10.hs100.top/20261112/ae90b66fa6412ced/index.m3u8
+《律政俏娇人-3》,https://c10.hs100.top/20261112/c760b71e67458e29/index.m3u8
 
 医院短剧,#genre#
 
@@ -539,6 +603,9 @@
 《受伤后医院成为我的后宫-4》,https://c10.hs100.top/20261030/2dc3309bfa05637f/index.m3u8
 《舔狗和病人-1》,https://c10.hs100.top/20261107/c7215b49687cc3aa/index.m3u8
 《舔狗和病人-2》,https://c10.hs100.top/20261107/794252604d2b1784/index.m3u8
+《裸护特别医院-1》,https://c10.hs100.top/20261109/6ed58b55685a79c9/index.m3u8
+《裸护特别医院-2》,https://c10.hs100.top/20261109/c37bc4c12ca002e7/index.m3u8
+《裸护特别医院-3》,https://c10.hs100.top/20261109/c022214cdeb38f3b/index.m3u8
 
 空姐短剧,#genre#
 
@@ -554,6 +621,8 @@
 社会百态,#genre#
 
 《许家印和他的恒大歌舞团-1-8》,https://c10.hs100.top/20261021/7e6e8101c8565329/index.m3u8
+《许家印的酒池肉林-1》,https://c10.hs100.top/20261109/3c3c929f33c649b3/index.m3u8
+《许家印的酒池肉林-2》,https://c10.hs100.top/20261109/29467cf4a5373b70/index.m3u8
 《王思聪伦敦留学时的私密日记-1》,https://c10.hs100.top/20261019/2f9110997b535057/index.m3u8
 《王思聪伦敦留学时的私密日记-2》,https://c10.hs100.top/20261019/0ebe394e852e0c74/index.m3u8
 《王思聪伦敦留学时的私密日记-3》,https://c10.hs100.top/20261019/6cf311b0c6e2205f/index.m3u8
@@ -686,6 +755,10 @@
 《上门修逼-3》,https://c10.hs100.top/20261102/4812a73827b19183/index.m3u8
 《上门修逼-4》,https://c10.hs100.top/20261103/cde5b40810430dc7/index.m3u8
 《上门修逼-5》,https://c10.hs100.top/20261105/85f4f578474eab20/index.m3u8
+《上门修逼-6》,https://c10.hs100.top/20261107/e3939fdf01a24668/index.m3u8
+《上门修逼-7》,https://c10.hs100.top/20261108/0ffe57eb9c477373/index.m3u8
+《上门修逼-8》,https://c10.hs100.top/20261109/45a2e8428a083192/index.m3u8
+《上门修逼-9》,https://c10.hs100.top/20261110/d547fd6cfd28fc09/index.m3u8
 《链家租逼-1》,https://c10.hs100.top/20261102/b178c29b3d73bae9/index.m3u8
 《链家租逼-2》,https://c10.hs100.top/20261102/4b7161bc2f6799ce/index.m3u8
 《链家租逼-3》,https://c10.hs100.top/20261103/254f876cbd6c6dba/index.m3u8
@@ -693,6 +766,7 @@
 《链家租逼-5》,https://c10.hs100.top/20261104/d15d8c0dc55841be/index.m3u8
 《链家租逼-6》,https://c10.hs100.top/20261105/79eaa180906472d9/index.m3u8
 《链家租逼-7》,https://c10.hs100.top/20261106/7be08e337b62c638/index.m3u8
+《链家租逼-8》,https://c10.hs100.top/20261107/d49c1cdee38e6a44/index.m3u8
 《青蛙人-1》,https://c10.hs100.top/20261103/4f93d245207b2aaa/index.m3u8
 《青蛙人-2》,https://c10.hs100.top/20261104/901a0fb4538ecd2d/index.m3u8
 《原味拍卖-1》,https://c10.hs100.top/20261031/19f9b7e0d61f49fb/index.m3u8
@@ -718,6 +792,66 @@
 《人妻猎手-3》,https://c10.hs100.top/20261107/7ec3efec6b5ca35b/index.m3u8
 《人妻猎手-4》,https://c10.hs100.top/20261107/4ae2407bdbbdaade/index.m3u8
 《人妻猎手-5》,https://c10.hs100.top/20261107/2374c52ae2e86b0c/index.m3u8
+《三个辣妹把我家变成独一无二的淫窝-1》,https://c10.hs100.top/20261108/abad120ae2f625ac/index.m3u8
+《三个辣妹把我家变成独一无二的淫窝-2》,https://c10.hs100.top/20261108/5dbc6d18a2717ae0/index.m3u8
+《三个辣妹把我家变成独一无二的淫窝-3》,https://c10.hs100.top/20261108/ba90c34d376ed0ab/index.m3u8
+《三个辣妹把我家变成独一无二的淫窝-4》,https://c10.hs100.top/20261108/f37711dc70d1fc09/index.m3u8
+《兔子和哥哥共感了-1》,https://c10.hs100.top/20261108/5671791d19a3987d/index.m3u8
+《兔子和哥哥共感了-2》,https://c10.hs100.top/20261108/5849bcf4a67ba17f/index.m3u8
+《兔子和哥哥共感了-3》,https://c10.hs100.top/20261108/f7c9766c94418089/index.m3u8
+《世界顶级杀手正在带妹-1》,https://c10.hs100.top/20261108/c543e1cab28158e1/index.m3u8
+《世界顶级杀手正在带妹-2》,https://c10.hs100.top/20261108/b8abb43a0f125a15/index.m3u8
+《世界顶级杀手正在带妹-3》,https://c10.hs100.top/20261108/9de62d944a97d5d4/index.m3u8
+《世界顶级杀手正在带妹-4》,https://c10.hs100.top/20261108/d3eb10d30a75648f/index.m3u8
+《世界顶级杀手正在带妹-5》,https://c10.hs100.top/20261108/d4c818f4f4eb7be5/index.m3u8
+《家门为你开-1》,https://c10.hs100.top/20261108/3bb9db0671d1a361/index.m3u8
+《家门为你开-2》,https://c10.hs100.top/20261108/9eb8968abb057546/index.m3u8
+《家门为你开-3》,https://c10.hs100.top/20261108/f7799f23c43d6635/index.m3u8
+《家门为你开-4》,https://c10.hs100.top/20261108/02bd27bc470eb1dc/index.m3u8
+《家门为你开-5》,https://c10.hs100.top/20261108/89fe9adf47a9a163/index.m3u8
+《家门为你开-6》,https://c10.hs100.top/20261108/d3b30cef8be06d50/index.m3u8
+《家门为你开-7》,https://c10.hs100.top/20261108/6db91956a4a7d06d/index.m3u8
+《家门为你开-8》,https://c10.hs100.top/20261108/a04d508e9aaeb484/index.m3u8
+《家门为你开-9》,https://c10.hs100.top/20261108/e6270cbd1ca8882a/index.m3u8
+《家门为你开-10》,https://c10.hs100.top/20261108/3d6a0c3ca6e29e56/index.m3u8
+《家门为你开-11》,
+《家门为你开-12》,https://c10.hs100.top/20261108/6a968e41e98f27e7/index.m3u8
+《家门为你开-13》,https://c10.hs100.top/20261108/d442cd208364ef58/index.m3u8
+《家门为你开-14》,https://c10.hs100.top/20261108/ad49127a77e07aa5/index.m3u8
+《开局被甩，我觉醒情绪系统-1》,https://c10.hs100.top/20261108/dc46303bfc7f8a69/index.m3u8
+《开局被甩，我觉醒情绪系统-2》,https://c10.hs100.top/20261108/e0282a55daff1f2f/index.m3u8
+《开局被甩，我觉醒情绪系统-3》,https://c10.hs100.top/20261108/3338d0ba8e0b929b/index.m3u8
+《寄生上流-1》,https://c10.hs100.top/20261108/41dd54845ba932ff/index.m3u8
+《寄生上流-2》,https://c10.hs100.top/20261108/cf591af835658c0b/index.m3u8
+《寄生上流-3》,https://c10.hs100.top/20261108/cf591af835658c0b/index.m3u8
+《寄生上流-4》,https://c10.hs100.top/20261108/47bcfff18668c63d/index.m3u8
+《寄生上流-5》,https://c10.hs100.top/20261108/a05757f2ec0d3c09/index.m3u8
+《寄生上流-6》,https://c10.hs100.top/20261108/defe93562e5605b1/index.m3u8
+《寄生上流-7》,https://c10.hs100.top/20261108/2387db24e9c22f92/index.m3u8
+《如何成为鸭王-1》,https://c10.hs100.top/20261109/d5a702d18e8e6474/index.m3u8
+《如何成为鸭王-2》,https://c10.hs100.top/20261109/5a2fcd1fccda45d3/index.m3u8
+《如何成为鸭王-3》,https://c10.hs100.top/20261109/dd40cc4a741c898f/index.m3u8
+《如何成为鸭王-4》,https://c10.hs100.top/20261109/38cf58012732e128/index.m3u8
+《如何成为鸭王-5》,https://c10.hs100.top/20261109/1d2c78eea1cd30de/index.m3u8
+《如何成为鸭王-6》,https://c10.hs100.top/20261109/84e0b78805c827d6/index.m3u8
+《如何成为鸭王-7》,https://c10.hs100.top/20261109/4e7b0ba6aae0a655/index.m3u8
+《如何成为鸭王-8》,https://c10.hs100.top/20261109/917059d7ce95909e/index.m3u8
+《如何成为鸭王-9》,https://c10.hs100.top/20261109/10e30d6343869652/index.m3u8
+《如何成为鸭王-10》,https://c10.hs100.top/20261109/b5e254a0d428b028/index.m3u8
+《私教后宫-1》,https://c10.hs100.top/20261109/8601fad959be217b/index.m3u8
+《私教后宫-2》,https://c10.hs100.top/20261109/2ad071bfd30aed6f/index.m3u8
+《东交到家-1》,https://c10.hs100.top/20261106/a8191bb39bd9d517/index.m3u8
+《东交到家-2》,https://c10.hs100.top/20261106/22e906583c10fc45/index.m3u8
+《东交到家-3》,https://c10.hs100.top/20261107/9f1ec2278c4ec87b/index.m3u8
+《东交到家-4》,https://c10.hs100.top/20261107/cd027f97548eb8d8/index.m3u8
+《东交到家-5》,https://c10.hs100.top/20261108/d2eb1df7666dd9d4/index.m3u8
+《东交到家-6》,https://c10.hs100.top/20261109/5f2013e6496079ab/index.m3u8
+《东交到家-7》,https://c10.hs100.top/20261110/9f3996ea7d152b23/index.m3u8
+《东交到家-8》,https://c10.hs100.top/20261111/f7cc2eb67582d5be/index.m3u8
+《泰绿-1》,https://c10.hs100.top/20261106/240ca9647d95f4c3/index.m3u8
+《泰绿-2》,https://c10.hs100.top/20261107/0f08dc52d776a1b3/index.m3u8
+《泰绿-3》,https://c10.hs100.top/20261110/b5ffb5faeedc8f48/index.m3u8
+《泰绿-4》,https://c10.hs100.top/20261111/39302819a714c994/index.m3u8
 
 校园短剧,#genre#
 
@@ -843,6 +977,9 @@
 《舞蹈系学妹的零距离接触-7》,https://c10.hs100.top/20261014/a832cfcf9f0c73fa/index.m3u8
 《舞蹈系学妹的零距离接触-8》,https://c10.hs100.top/20261014/bb25e3fe8287607f/index.m3u8
 《舞蹈系学妹的零距离接触-9》,https://c10.hs100.top/20261014/42a08682a34be1bb/index.m3u8
+《篮下拾光-1》,https://c10.hs100.top/20261108/06785b664e1c77a1/index.m3u8
+《篮下拾光-2》,https://c10.hs100.top/20261108/2f83c34aa34310ba/index.m3u8
+《篮下拾光-3》,https://c10.hs100.top/20261108/62132129e2aef8ee/index.m3u8
 《补习老师1-12》,https://c10.hs100.top/20261023/de9acc86841eee10/index.m3u8
 《深夜潜入女大学生宿舍1-7》,https://c10.hs100.top/20261024/0900cf4f85325acd/index.m3u8
 《学姐们的还款方式1-5》,https://c10.hs100.top/20261024/3ba824cc10f56e4b/index.m3u8
@@ -1144,6 +1281,7 @@
 《和妈妈全裸在家的日子-1》,https://c10.hs100.top/20261030/330e2ca7c9deef93/index.m3u8
 《废墟母子淫交》,https://c10.hs100.top/20261026/85cd0f33ee4f3edc/index.m3u8
 
+
 家庭短剧,#genre#
 
 《神瞳觉醒-1》,https://c10.hs100.top/20260913/be8f043bf4492988/index.m3u8
@@ -1240,6 +1378,12 @@
 《系统带我攻略弟弟-9》,https://c10.hs100.top/20261020/d669eec0ebe924de/index.m3u8
 《系统带我攻略弟弟-10》,https://c10.hs100.top/20261020/e064b26fb4493101/index.m3u8
 《姐弟间的秘密1-3》,https://c10.hs100.top/20261018/e131fa89b8718164/index.m3u8
+《我的美艳亲姐姐—放荡母女-1》,https://c10.hs100.top/20261112/d130d7b0b17affcb/index.m3u8
+《我的美艳亲姐姐—放荡母女-2》,https://c10.hs100.top/20261112/08956ed7a5a6eb2d/index.m3u8
+《我的美艳亲姐姐—放荡母女-3》,https://c10.hs100.top/20261112/278ac3a7abbf08c8/index.m3u8
+《我的美艳亲姐姐—放荡母女-4》,https://c10.hs100.top/20261112/cebfbf4d7bde98a4/index.m3u8
+《我的美艳亲姐姐—放荡母女-5》,https://c10.hs100.top/20261112/8752efe64ddb5654/index.m3u8
+《我的美艳亲姐姐—放荡母女-6》,https://c10.hs100.top/20261112/00567a8a96b18016/index.m3u8
 《陈皮皮的斗争-1》,https://c10.hs100.top/20261009/348ed12cee8cd2ab/index.m3u8
 《陈皮皮的斗争-2》,https://c10.hs100.top/20261009/6a78764c707960a0/index.m3u8
 《陈皮皮的斗争-3》,https://c10.hs100.top/20261013/49244ac407dc3b06/index.m3u8
@@ -1276,6 +1420,7 @@
 《我的妹妹是风俗娘-4》,https://c10.hs100.top/20261031/0d948179fe52d1a7/index.m3u8
 《我的妹妹是风俗娘-5》,https://c10.hs100.top/20261101/706486c2831f39f3/index.m3u8
 《我的妹妹是风俗娘-6》,https://c10.hs100.top/20261104/6e5c4eaaaf856309/index.m3u8
+《我的妹妹是风俗娘-7》,https://c10.hs100.top/20261110/47abb407a65c49a5/index.m3u8
 《18岁太奶驾到回到1955-1》,https://c10.hs100.top/20261023/69fc98f8ff332200/index.m3u8
 《18岁太奶驾到回到1955-2》,https://c10.hs100.top/20261023/beb72a387c1480bd/index.m3u8
 《18岁太奶驾到回到1955-3》,https://c10.hs100.top/20261023/85b825cbc0f6bf59/index.m3u8
@@ -1308,13 +1453,13 @@
 《哺乳期儿媳怀上公公的种1-3》,https://c10.hs100.top/20261023/f0d5c539bd91ea85/index.m3u8
 《秘密教学1-5》,https://c10.hs100.top/20261017/d2b3a52765203f57/index.m3u8
 《50元买断人妻1-14》,https://c10.hs100.top/20261018/6c5f473e99b8d9a8/index.m3u8
-《老公要求别人玩弄我NTR-1--4》,https://c10.hs100.top/20260910/109db17c888a0e0f/index.m3u8
-《老公要求别人玩弄我NTR-5》,https://c10.hs100.top/20260911/b36f5d5abe9993f5/index.m3u8
-《老公要求别人玩弄我NTR-6》,https://c10.hs100.top/20260911/d91845c13de18865/index.m3u8
-《老公要求别人玩弄我NTR-7》,https://c10.hs100.top/20260911/7ae3ea29ba137292/index.m3u8
-《老公要求别人玩弄我NTR-8》,https://c10.hs100.top/20260912/06354c6a6ab6a046/index.m3u8
-《老公要求别人玩弄我NTR-9》,https://c10.hs100.top/20260912/1e285a7f8dd99c3d/index.m3u8
-《老公要求别人玩弄我NTR-10》,https://c10.hs100.top/20260912/5bdae98b812e24bb/index.m3u8
+《老公要求别人玩弄我1--4》,https://c10.hs100.top/20260910/109db17c888a0e0f/index.m3u8
+《老公要求别人玩弄我-5》,https://c10.hs100.top/20260911/b36f5d5abe9993f5/index.m3u8
+《老公要求别人玩弄我-6》,https://c10.hs100.top/20260911/d91845c13de18865/index.m3u8
+《老公要求别人玩弄我-7》,https://c10.hs100.top/20260911/7ae3ea29ba137292/index.m3u8
+《老公要求别人玩弄我-8》,https://c10.hs100.top/20260912/06354c6a6ab6a046/index.m3u8
+《老公要求别人玩弄我-9》,https://c10.hs100.top/20260912/1e285a7f8dd99c3d/index.m3u8
+《老公要求别人玩弄我-10》,https://c10.hs100.top/20260912/5bdae98b812e24bb/index.m3u8
 《想淫妻的我竟然被绿了1-6》,https://c10.hs100.top/20261020/b61588e53faed104/index.m3u8
 《想淫妻的我竟然被绿了-7》,https://c10.hs100.top/20261022/a3052e44200a8dde/index.m3u8
 《想淫妻的我竟然被绿了-8》,https://c10.hs100.top/20261022/77385ac59ec19dac/index.m3u8
@@ -1401,7 +1546,13 @@
 《我把兄弟变母狗-6》,https://c10.hs100.top/20261020/7c93d82efaa36fb0/index.m3u8
 《我把兄弟变母狗-7》,https://c10.hs100.top/20261026/e59c8acfbf0bd168/index.m3u8
 《我把兄弟变母狗-8》,https://c10.hs100.top/20261031/ee558cb2d5c5769a/index.m3u8
-
+《善良的嫂子-1》,https://c10.hs100.top/20261109/a6cb4960843f9927/index.m3u8
+《善良的嫂子-2》,https://c10.hs100.top/20261109/c8672d4a9192c536/index.m3u8
+《善良的嫂子-3》,https://c10.hs100.top/20261109/246ae74b95627838/index.m3u8
+《善良的嫂子-4》,https://c10.hs100.top/20261109/f2db330be04280f3/index.m3u8
+《善良的嫂子-5》,https://c10.hs100.top/20261109/563f5039707dca68/index.m3u8
+《善良的嫂子-6》,https://c10.hs100.top/20261109/b0151f71dee0964f/index.m3u8
+《善良的嫂子-7》,https://c10.hs100.top/20261109/0cba4775c33cf8a7/index.m3u8
 
 精神小妹,#genre#
 
@@ -1440,6 +1591,10 @@
 《重生后操儿媳整顿全家-3》,https://c10.hs100.top/20261028/1c5c0dfdb6ebbbad/index.m3u8
 《当街之失禁》,https://c10.hs100.top/20260906/856d928e2da05469/index.m3u8
 《华强卖瓜之奶妹版》,https://c10.hs100.top/20260903/7ccf2c476d8169d5/index.m3u8
+《精神小妹：母女同床-1》,https://c10.hs100.top/20261112/d094d99618a852dd/index.m3u8
+《精神小妹：母女同床-2》,https://c10.hs100.top/20261112/0db587b7d6d88cfa/index.m3u8
+《精神小妹：母女同床-3》,https://c10.hs100.top/20261112/41ed164ea781e5d2/index.m3u8
+《精神小妹：母女同床-4》,https://c10.hs100.top/20261112/05730b26d16029df/index.m3u8
 
 异域短剧,#genre#
 
@@ -1490,6 +1645,8 @@
 《从地狱归来：深渊调教-13》,https://c10.hs100.top/20261026/b3735654550611ed/index.m3u8
 《从地狱归来：深渊调教-14》,https://c10.hs100.top/20261027/df9504b1f17732bd/index.m3u8
 《从地狱归来：深渊调教-15》,https://c10.hs100.top/20261103/11bb04e9ae2ae3ee/index.m3u8
+《从地狱归来：深渊调教-16》,https://c10.hs100.top/20261109/ee573f7eefb13116/index.m3u8
+《从地狱归来：深渊调教-17》,https://c10.hs100.top/20261111/f33c43ab468ab5e9/index.m3u8
 《致命陷阱之坠入淫窟-1》,https://c10.hs100.top/20260920/9d19aa01fb5fb5c6/index.m3u8
 《致命陷阱之坠入淫窟-2》,https://c10.hs100.top/20260923/e426dc75fe3e1700/index.m3u8
 《致命陷阱之坠入淫窟-3》,https://c10.hs100.top/20260926/1c18c9cec6ca123a/index.m3u8
@@ -1500,6 +1657,8 @@
 《致命陷阱之坠入淫窟-8》,https://c10.hs100.top/20261016/4ab4ef85eb10760f/index.m3u8
 《致命陷阱之坠入淫窟-9》,https://c10.hs100.top/20261022/f1b93ac6e3914db7/index.m3u8
 《致命陷阱之坠入淫窟-10》,https://c10.hs100.top/20261028/007450d31fa7623d/index.m3u8
+《致命陷阱之坠入淫窟-11》,https://c10.hs100.top/20261102/283e1ea93e2449c0/index.m3u8
+《致命陷阱之坠入淫窟-12》,https://c10.hs100.top/20261108/bce879b2429e358e/index.m3u8
 《台球少女-1》,https://c10.hs100.top/20260927/8ff626c6d32daa41/index.m3u8
 《台球少女-2》,https://c10.hs100.top/20260929/1a99636ec6455266/index.m3u8
 《台球少女-3》,https://c10.hs100.top/20261001/d089b20315159ff5/index.m3u8
@@ -1522,6 +1681,7 @@
 《重生之我操你全家-5》,https://c10.hs100.top/20261029/7b352dec74921b23/index.m3u8
 《重生之我操你全家-6》,https://c10.hs100.top/20261030/15fe95d027af81e9/index.m3u8
 《重生之我操你全家-7》,https://c10.hs100.top/20261103/dd9de9da3f054874/index.m3u8
+《重生之我操你全家-8》,https://c10.hs100.top/20261111/b50a1432b5675881/index.m3u8
 《无间道之妙瓦底风云-1》,https://c10.hs100.top/20260913/3bcd3844424076c4/index.m3u8
 《无间道之妙瓦底风云-2》,https://c10.hs100.top/20260913/f5234cfc43d8fd08/index.m3u8
 《无间道之妙瓦底风云-3》,https://c10.hs100.top/20260913/1578dd3774ffa2ac/index.m3u8
@@ -1536,6 +1696,11 @@
 《无限尾行-6》,https://c10.hs100.top/20261102/1b0f34685fc2a27f/index.m3u8
 《无限尾行-7》,https://c10.hs100.top/20261104/6235293da7c9117d/index.m3u8
 《无限尾行-8》,https://c10.hs100.top/20261105/75e087800c7a6005/index.m3u8
+《我有一座恐怖屋-1》,https://c10.hs100.top/20261107/9ed64103ba1686e2/index.m3u8
+《我有一座恐怖屋-2》,https://c10.hs100.top/20261109/47b5b4b910985fa1/index.m3u8
+《我有一座恐怖屋-3》,https://c10.hs100.top/20261111/49dd921de27ef41b/index.m3u8
+《我有一座恐怖屋-4》,https://c10.hs100.top/20261111/689ea75a4b4599a3/index.m3u8
+《我有一座恐怖屋-5》,https://c10.hs100.top/20261111/dab2caebf3de11a5/index.m3u8
 
 异界短剧,#genre#
 
@@ -1613,6 +1778,9 @@
 《欲望公路-1》,https://c10.hs100.top/20260909/ee53f04199b6a692/index.m3u8
 《欲望公路-2》,https://c10.hs100.top/20260909/4c6026d62e069cbd/index.m3u8
 《欲望公路-3》,https://c10.hs100.top/20260909/2096b3a0fd285637/index.m3u8
+《欲望公路第二季-1》,https://c10.hs100.top/20261109/5bde27dd033c033e/index.m3u8
+《欲望公路第二季-2》,https://c10.hs100.top/20261109/5e262f222b8a8e24/index.m3u8
+《欲望公路第二季-3》,https://c10.hs100.top/20261109/d69e61d28bdfb3ad/index.m3u8
 《痴汉成瘾-1》,https://c10.hs100.top/20261018/b9c796b0395147fd/index.m3u8
 《痴汉成瘾-2》,https://c10.hs100.top/20261018/361f096448c77684/index.m3u8
 《痴汉成瘾-3》,https://c10.hs100.top/20261018/6de6827296c2d423/index.m3u8
@@ -1629,6 +1797,11 @@
 《高铁窗畔遇谎局第二季-1》,https://c10.hs100.top/20260910/b695a5fa53c9fc6c/index.m3u8
 《高铁窗畔遇谎局第二季-2》,https://c10.hs100.top/20260910/396c0a7bdc187099/index.m3u8
 《高铁窗畔遇谎局第二季-3》,https://c10.hs100.top/20260911/e8620c1738dcb6f6/index.m3u8
+《高铁窗畔遇谎局第二季-4》,https://c10.hs100.top/20261109/78fce4cf177691e3/index.m3u8
+《高铁窗畔遇谎局第二季-5》,https://c10.hs100.top/20261109/6a4daf2707d89b26/index.m3u8
+《高铁窗畔遇谎局第二季-6》,https://c10.hs100.top/20261109/2016f239ea94bdbb/index.m3u8
+《高铁窗畔遇谎局第二季-7》,https://c10.hs100.top/20261109/c3e177c27537f8ac/index.m3u8
+《高铁窗畔遇谎局第二季-8》,https://c10.hs100.top/20261109/ec5067277aec23c2/index.m3u8
 《朱颜血系列-长途列车-1》,https://c10.hs100.top/20260904/2da61041ec9914dd/index.m3u8
 《朱颜血系列-长途列车-2》,https://c10.hs100.top/20260904/d058af610dfa5b98/index.m3u8
 《朱颜血系列-长途列车-3》,https://c10.hs100.top/20260905/4e72008f007e7ad9/index.m3u8
@@ -1696,6 +1869,14 @@
 《堕落物语-3》,https://c10.hs100.top/20260909/1801a290935468cd/index.m3u8
 《堕落物语-4》,https://c10.hs100.top/20260910/ac5353245709d1ee/index.m3u8
 《堕落物语-5》,https://c10.hs100.top/20260910/5fc07df4940b5c25/index.m3u8
+《堕落物语第二季-1》,https://c10.hs100.top/20261109/5769fbe67e9f90b9/index.m3u8
+《堕落物语第二季-2》,https://c10.hs100.top/20261109/2fd3d90dfaa1dc1c/index.m3u8
+《堕落物语第二季-3》,https://c10.hs100.top/20261109/d7142fbf021bb78c/index.m3u8
+《堕落物语第二季-4》,https://c10.hs100.top/20261109/fd370100b6207c0f/index.m3u8
+《堕落物语第二季-5》,https://c10.hs100.top/20261109/6d1a2bff367a9c20/index.m3u8
+《堕落物语第二季-6》,https://c10.hs100.top/20261109/de5ec829212c7163/index.m3u8
+《堕落物语第二季-7》,https://c10.hs100.top/20261109/5a9c8b0f33ee87e4/index.m3u8
+《堕落物语第二季-8》,https://c10.hs100.top/20261109/2489f67198de3323/index.m3u8
 《复仇世家控制系统之我有系统控制一切》,https://c10.hs100.top/20260909/1f15c25c641baf67/index.m3u8
 《末日神舟-1》,https://c10.hs100.top/20260909/60baa812b94556b1/index.m3u8
 《末日神舟-2》,https://c10.hs100.top/20260910/ceeced4f8e986a69/index.m3u8
