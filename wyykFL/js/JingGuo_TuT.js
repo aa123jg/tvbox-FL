@@ -7,7 +7,7 @@
 WidgetMetadata = {
   id: "forward.jinguoduanju.tut",
   title: "禁果短剧",
-  version: "1.1.1",
+  version: "1.3.4",
   requiredVersion: "0.0.1",
   description: "禁果短剧：热度/最新/官方导航分类/标签/搜索/分集播放 | 宝宝巴士乐园 t.me/nostremby",
   author: "宝宝巴士",
